@@ -1,0 +1,6609 @@
+Erdos calculated by PageRank Centrality: David Maier
+PageRank obtenido: 16.326689
+------------------------------
+Please check the Erdos number of each author below: 
+
+Author 1: Alin Deutsch
+Erdos number: 1
+PageRank: 4.903440
+
+Author 2: Mary F. Fernandez
+Erdos number: 1
+PageRank: 4.640221
+
+Author 3: Daniela Florescu
+Erdos number: 1
+PageRank: 6.563322
+
+Author 4: Alon Y. Levy
+Erdos number: 1
+PageRank: 4.022580
+
+Author 5: Dan Suciu
+Erdos number: 1
+PageRank: 7.069064
+
+Author 6: Richard Hull
+Erdos number: 1
+PageRank: 9.047714
+
+Author 7: Jo Reid
+Erdos number: 2
+PageRank: 0.177339
+
+Author 8: John Mylopoulos
+Erdos number: 2
+PageRank: 1.506286
+
+Author 9: Nicola Zannone
+Erdos number: 3
+PageRank: 0.599770
+
+Author 10: Evelina Lamma
+Erdos number: 3
+PageRank: 2.775869
+
+Author 11: Fabrizio Riguzzi
+Erdos number: 3
+PageRank: 0.819762
+
+Author 12: Sergio Storari
+Erdos number: 3
+PageRank: 1.024915
+
+Author 13: Marco Gavanelli
+Erdos number: 3
+PageRank: 1.616928
+
+Author 14: Beng Chin Ooi
+Erdos number: 1
+PageRank: 4.875139
+
+Author 15: Kian-Lee Tan
+Erdos number: 1
+PageRank: 3.576862
+
+Author 16: Divesh Srivastava
+Erdos number: 2
+PageRank: 10.396306
+
+Author 17: Laks V. S. Lakshmanan
+Erdos number: 2
+PageRank: 3.456804
+
+Author 18: SungRan Cho
+Erdos number: 3
+PageRank: 0.550676
+
+Author 19: Sihem Amer-Yahia
+Erdos number: 2
+PageRank: 5.952645
+
+Author 20: Marianne Winslett
+Erdos number: 1
+PageRank: 0.926063
+
+Author 21: Ting Yu
+Erdos number: 2
+PageRank: 1.404335
+
+Author 22: Boon Thau Loo
+Erdos number: 1
+PageRank: 5.519635
+
+Author 23: Wenchao Zhou
+Erdos number: 2
+PageRank: 1.759819
+
+Author 24: Wenfei Fan
+Erdos number: 2
+PageRank: 6.572897
+
+Author 25: Floris Geerts
+Erdos number: 2
+PageRank: 2.222870
+
+Author 26: Carlos Castillo
+Erdos number: 2
+PageRank: 1.058693
+
+Author 27: Arcot Rajasekar
+Erdos number: 2
+PageRank: 2.695698
+
+Author 28: Reagan Moore
+Erdos number: 2
+PageRank: 2.818509
+
+Author 29: Chien-Yi Hou
+Erdos number: 2
+PageRank: 1.202738
+
+Author 30: Christopher A. Lee
+Erdos number: 3
+PageRank: 0.689529
+
+Author 31: Richard Marciano
+Erdos number: 2
+PageRank: 2.207579
+
+Author 32: Antoine de Torcy
+Erdos number: 3
+PageRank: 0.473075
+
+Author 33: Michael Wan
+Erdos number: 3
+PageRank: 1.345712
+
+Author 34: Wayne Schroeder
+Erdos number: 3
+PageRank: 1.299349
+
+Author 35: Sheau-Yen Chen
+Erdos number: 3
+PageRank: 0.573019
+
+Author 36: Lucas Gilbert
+Erdos number: 3
+PageRank: 0.539832
+
+Author 37: Paul Tooby
+Erdos number: 3
+PageRank: 0.473075
+
+Author 38: Bing Zhu
+Erdos number: 3
+PageRank: 0.664540
+
+Author 39: Renae J. Miller
+Erdos number: 2
+PageRank: 2.586992
+
+Author 40: Rachel Pottinger
+Erdos number: 2
+PageRank: 0.711258
+
+Author 41: Dan Olteanu
+Erdos number: 2
+PageRank: 0.842778
+
+Author 42: Christopher Ra
+Erdos number: 2
+PageRank: 1.151788
+
+Author 43: Christoph Koch
+Erdos number: 2
+PageRank: 0.929486
+
+Author 44: Lukasz Golab
+Erdos number: 2
+PageRank: 1.099609
+
+Author 45: M. Tamer azsu
+Erdos number: 1
+PageRank: 1.702875
+
+Author 46: Jeffrey Xu Yu
+Erdos number: 2
+PageRank: 3.611981
+
+Author 47: Lu Qin
+Erdos number: 3
+PageRank: 0.904326
+
+Author 48: Luis Gravano
+Erdos number: 2
+PageRank: 0.926380
+
+Author 49: Cyrus Shahabi
+Erdos number: 2
+PageRank: 1.144160
+
+Author 50: David Maier
+Erdos number: 0
+PageRank: 16.326689
+
+Author 51: Peter A. Tucker
+Erdos number: 1
+PageRank: 0.780365
+
+Author 52: Minos N. Garofalakis
+Erdos number: 1
+PageRank: 3.118151
+
+Author 53: Ke Wang
+Erdos number: 2
+PageRank: 1.153583
+
+Author 54: Jian Pei
+Erdos number: 2
+PageRank: 2.216876
+
+Author 55: Chang Luo
+Erdos number: 2
+PageRank: 0.437643
+
+Author 56: Carlo Zaniolo
+Erdos number: 1
+PageRank: 4.484821
+
+Author 57: Nicolas Bruno
+Erdos number: 2
+PageRank: 0.595031
+
+Author 58: Nick Koudas
+Erdos number: 2
+PageRank: 4.445529
+
+Author 59: Guozhu Dong
+Erdos number: 2
+PageRank: 1.591887
+
+Author 60: Massimo Mecella
+Erdos number: 2
+PageRank: 0.977309
+
+Author 61: Maurizio Talamo
+Erdos number: 3
+PageRank: 0.820479
+
+Author 62: Rafael Alonso
+Erdos number: 2
+PageRank: 0.562340
+
+Author 63: Carolyn L. Talcott
+Erdos number: 2
+PageRank: 0.896360
+
+Author 64: Jan-Hendrik Bartels
+Erdos number: 3
+PageRank: 0.457749
+
+Author 65: Jargen Zimmermann
+Erdos number: 2
+PageRank: 1.746277
+
+Author 66: Zachary G. Ives
+Erdos number: 2
+PageRank: 3.749098
+
+Author 67: Insup Lee
+Erdos number: 2
+PageRank: 2.532673
+
+Author 68: Oleg Sokolsky
+Erdos number: 2
+PageRank: 2.477613
+
+Author 69: Lijie Wen
+Erdos number: 3
+PageRank: 1.364861
+
+Author 70: Jianmin Wang 0001
+Erdos number: 2
+PageRank: 1.544340
+
+Author 71: Philip Wadler
+Erdos number: 2
+PageRank: 2.632966
+
+Author 72: Jeremy Yallop
+Erdos number: 3
+PageRank: 0.336371
+
+Author 73: Kathleen Fisher
+Erdos number: 2
+PageRank: 4.068950
+
+Author 74: Martin C. Rinard
+Erdos number: 3
+PageRank: 1.047049
+
+Author 75: Mooly Sagiv
+Erdos number: 3
+PageRank: 0.612388
+
+Author 76: John C. Mitchell
+Erdos number: 2
+PageRank: 1.942703
+
+Author 77: Andre Scedrov
+Erdos number: 2
+PageRank: 2.020848
+
+Author 78: Oscar H. Ibarra
+Erdos number: 2
+PageRank: 1.001325
+
+Author 79: Jianwen Su
+Erdos number: 2
+PageRank: 2.612681
+
+Author 80: Anish Arora
+Erdos number: 3
+PageRank: 1.132343
+
+Author 81: Mohamed G. Gouda
+Erdos number: 2
+PageRank: 1.286010
+
+Author 82: Sudipto Guha
+Erdos number: 2
+PageRank: 1.539300
+
+Author 83: Mihalis Yannakakis
+Erdos number: 1
+PageRank: 0.750020
+
+Author 84: Amir Pnueli
+Erdos number: 2
+PageRank: 0.691389
+
+Author 85: Elad Shahar
+Erdos number: 3
+PageRank: 0.542369
+
+Author 86: Alberto O. Mendelzon
+Erdos number: 1
+PageRank: 1.532387
+
+Author 87: George A. Mihaila
+Erdos number: 2
+PageRank: 0.864053
+
+Author 88: Yuan Chen
+Erdos number: 2
+PageRank: 0.788911
+
+Author 89: Yue Lu
+Erdos number: 2
+PageRank: 1.087266
+
+Author 90: Man Lan
+Erdos number: 3
+PageRank: 1.321185
+
+Author 91: Jian Su
+Erdos number: 3
+PageRank: 1.495477
+
+Author 92: Zheng-Yu Niu
+Erdos number: 3
+PageRank: 1.011401
+
+Author 93: Yong Zhao
+Erdos number: 2
+PageRank: 1.467542
+
+Author 94: Liang Chen
+Erdos number: 3
+PageRank: 0.875299
+
+Author 95: Marian H. Nodine
+Erdos number: 2
+PageRank: 0.408192
+
+Author 96: Stanley B. Zdonik
+Erdos number: 1
+PageRank: 5.986768
+
+Author 97: Yogesh Simmhan
+Erdos number: 2
+PageRank: 1.063609
+
+Author 98: Roger S. Barga
+Erdos number: 2
+PageRank: 1.399114
+
+Author 99: Alexander S. Szalay
+Erdos number: 2
+PageRank: 1.418531
+
+Author 100: Michael zur Muehlen
+Erdos number: 3
+PageRank: 0.787412
+
+Author 101: Mathias Weske
+Erdos number: 2
+PageRank: 1.138103
+
+Author 102: George Chin Jr.
+Erdos number: 2
+PageRank: 1.141461
+
+Author 103: Eric G. Stephan
+Erdos number: 2
+PageRank: 1.260193
+
+Author 104: David M. Hansen
+Erdos number: 1
+PageRank: 0.391934
+
+Author 105: Susanne Glissmann
+Erdos number: 2
+PageRank: 0.656280
+
+Author 106: Rong Liu
+Erdos number: 2
+PageRank: 0.597735
+
+Author 107: Domenico Sacca
+Erdos number: 2
+PageRank: 1.122000
+
+Author 108: Gyargy Szarvas
+Erdos number: 3
+PageRank: 0.764878
+
+Author 109: Iryna Gurevych
+Erdos number: 3
+PageRank: 0.723182
+
+Author 110: Chew Lim Tan
+Erdos number: 2
+PageRank: 2.736900
+
+Author 111: Jan M. Rabaey
+Erdos number: 3
+PageRank: 1.049705
+
+Author 112: Mark Horowitz
+Erdos number: 3
+PageRank: 0.601181
+
+Author 113: George Varghese
+Erdos number: 2
+PageRank: 7.434255
+
+Author 114: Sanjeev Jahagirdar
+Erdos number: 3
+PageRank: 0.687002
+
+Author 115: Tanveer Khondker
+Erdos number: 3
+PageRank: 0.687002
+
+Author 116: Robert Milstrey
+Erdos number: 3
+PageRank: 0.687002
+
+Author 117: Sanjib Sarkar
+Erdos number: 3
+PageRank: 0.687002
+
+Author 118: Scott Siers
+Erdos number: 3
+PageRank: 0.687002
+
+Author 119: Israel Stolero
+Erdos number: 3
+PageRank: 0.687002
+
+Author 120: Arun Subbiah
+Erdos number: 3
+PageRank: 0.687002
+
+Author 121: Charles Krasic
+Erdos number: 1
+PageRank: 0.642172
+
+Author 122: Jonathan Walpole
+Erdos number: 1
+PageRank: 2.019447
+
+Author 123: Calton Pu
+Erdos number: 1
+PageRank: 2.159976
+
+Author 124: Timothy Roscoe
+Erdos number: 2
+PageRank: 1.491309
+
+Author 125: Prashant J. Shenoy
+Erdos number: 2
+PageRank: 2.499482
+
+Author 126: Shlomi Dolev
+Erdos number: 3
+PageRank: 0.631216
+
+Author 127: Nancy A. Lynch
+Erdos number: 2
+PageRank: 1.124054
+
+Author 128: Lei Shi
+Erdos number: 2
+PageRank: 0.530773
+
+Author 129: Jinpeng Huai
+Erdos number: 2
+PageRank: 0.952601
+
+Author 130: Yu Zhang
+Erdos number: 1
+PageRank: 1.594853
+
+Author 131: Jian Huang
+Erdos number: 2
+PageRank: 0.530683
+
+Author 132: Hao Wang
+Erdos number: 1
+PageRank: 1.321391
+
+Author 133: Michael J. Carey
+Erdos number: 1
+PageRank: 6.262204
+
+Author 134: Hongjun Lu
+Erdos number: 2
+PageRank: 2.133521
+
+Author 135: Subhabrata Sen
+Erdos number: 2
+PageRank: 2.200969
+
+Author 136: Oliver Spatscheck
+Erdos number: 2
+PageRank: 2.485727
+
+Author 137: Dongmei Wang
+Erdos number: 3
+PageRank: 1.597710
+
+Author 138: Joseph M. Hellerstein
+Erdos number: 1
+PageRank: 5.271740
+
+Author 139: Nina Taft
+Erdos number: 2
+PageRank: 0.931348
+
+Author 140: Samuel Cheng
+Erdos number: 3
+PageRank: 1.080875
+
+Author 141: Lijuan Cui
+Erdos number: 3
+PageRank: 1.018886
+
+Author 142: Arnaud Sahuguet
+Erdos number: 2
+PageRank: 3.262585
+
+Author 143: Maria Shugrina
+Erdos number: 3
+PageRank: 0.321051
+
+Author 144: Olivier Siohan
+Erdos number: 3
+PageRank: 0.321051
+
+Author 145: Michael B. Greenwald
+Erdos number: 3
+PageRank: 0.827793
+
+Author 146: Jonathan M. Smith
+Erdos number: 2
+PageRank: 1.536690
+
+Author 147: Hongzhi Wang
+Erdos number: 3
+PageRank: 1.611465
+
+Author 148: Jianzhong Li
+Erdos number: 2
+PageRank: 3.694113
+
+Author 149: Jizhou Luo
+Erdos number: 2
+PageRank: 0.680231
+
+Author 150: Jan Hidders
+Erdos number: 2
+PageRank: 1.216294
+
+Author 151: Jan Van den Bussche
+Erdos number: 2
+PageRank: 2.525713
+
+Author 152: Matthias Weidlich
+Erdos number: 3
+PageRank: 1.685184
+
+Author 153: Wil M. P. van der Aalst
+Erdos number: 3
+PageRank: 3.291462
+
+Author 154: Maja Pesic
+Erdos number: 3
+PageRank: 0.420928
+
+Author 155: Minseok Song
+Erdos number: 2
+PageRank: 0.979202
+
+Author 156: Anne Rozinat
+Erdos number: 3
+PageRank: 1.097430
+
+Author 157: Yutian Sun
+Erdos number: 2
+PageRank: 0.815952
+
+Author 158: Roman Vaculan
+Erdos number: 2
+PageRank: 2.025971
+
+Author 159: Stefanie Rinderle-Ma
+Erdos number: 3
+PageRank: 0.409959
+
+Author 160: Xiaofang Zhou
+Erdos number: 2
+PageRank: 0.826194
+
+Author 161: Fabrizio Maria Maggi
+Erdos number: 3
+PageRank: 1.238624
+
+Author 162: Alessandro Sperduti
+Erdos number: 3
+PageRank: 0.781698
+
+Author 163: Volha Bryl
+Erdos number: 3
+PageRank: 0.340845
+
+Author 164: Jan Mendling
+Erdos number: 2
+PageRank: 2.191473
+
+Author 165: Michael Westergaard
+Erdos number: 3
+PageRank: 0.893235
+
+Author 166: Maurizio Lenzerini
+Erdos number: 2
+PageRank: 4.091709
+
+Author 167: Erich J. Neuhold
+Erdos number: 1
+PageRank: 0.939457
+
+Author 168: V. S. Subrahmanian
+Erdos number: 2
+PageRank: 0.910499
+
+Author 169: Kai-Uwe Sattler
+Erdos number: 2
+PageRank: 0.581886
+
+Author 170: Daniel Zinn
+Erdos number: 2
+PageRank: 0.931583
+
+Author 171: Shawn Bowers
+Erdos number: 1
+PageRank: 4.643854
+
+Author 172: Bertram Ludascher
+Erdos number: 2
+PageRank: 8.723405
+
+Author 173: Mark A. Musen
+Erdos number: 2
+PageRank: 2.168349
+
+Author 174: Huajun Chen
+Erdos number: 2
+PageRank: 1.887974
+
+Author 175: Hao Sheng
+Erdos number: 2
+PageRank: 0.478382
+
+Author 176: Zhaohui Wu
+Erdos number: 2
+PageRank: 2.152698
+
+Author 177: Yannis Velegrakis
+Erdos number: 2
+PageRank: 1.420757
+
+Author 178: Pascal Felber
+Erdos number: 2
+PageRank: 0.513391
+
+Author 179: Giuseppe De Giacomo
+Erdos number: 2
+PageRank: 5.462210
+
+Author 180: Antonella Poggi
+Erdos number: 2
+PageRank: 0.891685
+
+Author 181: Paolo Felli
+Erdos number: 3
+PageRank: 0.479006
+
+Author 182: Marco Alberti
+Erdos number: 3
+PageRank: 1.479644
+
+Author 183: Federico Chesani
+Erdos number: 3
+PageRank: 2.022884
+
+Author 184: Paola Mello
+Erdos number: 3
+PageRank: 4.089067
+
+Author 185: Marco Montali
+Erdos number: 2
+PageRank: 3.709091
+
+Author 186: Paolo Torroni
+Erdos number: 3
+PageRank: 1.811468
+
+Author 187: Elio Damaggio
+Erdos number: 2
+PageRank: 1.143292
+
+Author 188: Fabiana Fournier
+Erdos number: 2
+PageRank: 0.808250
+
+Author 189: Manmohan Gupta
+Erdos number: 2
+PageRank: 0.946297
+
+Author 190: Fenno Terry Heath
+Erdos number: 2
+PageRank: 0.777168
+
+Author 191: Stacy Hobson
+Erdos number: 2
+PageRank: 0.777168
+
+Author 192: Mark H. Linehan
+Erdos number: 2
+PageRank: 0.937653
+
+Author 193: Sridhar Maradugu
+Erdos number: 2
+PageRank: 0.777168
+
+Author 194: Anil Nigam
+Erdos number: 2
+PageRank: 1.292013
+
+Author 195: Piyawadee Sukaviriya
+Erdos number: 2
+PageRank: 0.630208
+
+Author 196: Fabio Patrizi
+Erdos number: 2
+PageRank: 1.409148
+
+Author 197: David W. Stemple
+Erdos number: 2
+PageRank: 1.192556
+
+Author 198: Tim Sheard
+Erdos number: 1
+PageRank: 1.402499
+
+Author 199: Akhil Kumar
+Erdos number: 2
+PageRank: 1.435657
+
+Author 200: Felix Naumann
+Erdos number: 2
+PageRank: 1.015738
+
+Author 201: Mary Roth
+Erdos number: 2
+PageRank: 0.884789
+
+Author 202: Heiko Maller
+Erdos number: 2
+PageRank: 0.397420
+
+Author 203: Davide Sottara
+Erdos number: 3
+PageRank: 0.448727
+
+Author 204: Hector Garcia-Molina
+Erdos number: 1
+PageRank: 5.129925
+
+Author 205: Yannis Papakonstantinou
+Erdos number: 2
+PageRank: 4.362164
+
+Author 206: Jeffrey D. Ullman
+Erdos number: 1
+PageRank: 4.768600
+
+Author 207: Jennifer Widom
+Erdos number: 1
+PageRank: 3.462340
+
+Author 208: Mohammed El-Haddad
+Erdos number: 3
+PageRank: 0.472018
+
+Author 209: Jie Liu
+Erdos number: 2
+PageRank: 0.810397
+
+Author 210: Fang Yu
+Erdos number: 3
+PageRank: 0.945233
+
+Author 211: Yu Xu
+Erdos number: 2
+PageRank: 4.042494
+
+Author 212: Zhi-Ming Chen
+Erdos number: 3
+PageRank: 0.189015
+
+Author 213: Rittwik Jana
+Erdos number: 2
+PageRank: 1.706480
+
+Author 214: Trevor Jim
+Erdos number: 2
+PageRank: 0.902648
+
+Author 215: Samson W. Tu
+Erdos number: 3
+PageRank: 2.969611
+
+Author 216: Vivek Nigam
+Erdos number: 2
+PageRank: 0.635206
+
+Author 217: Limin Jia
+Erdos number: 2
+PageRank: 1.341696
+
+Author 218: Kenny Qili Zhu
+Erdos number: 3
+PageRank: 0.836433
+
+Author 219: Yitzhak Mandelbaum
+Erdos number: 2
+PageRank: 1.344187
+
+Author 220: Vivek S. Pai
+Erdos number: 3
+PageRank: 0.375889
+
+Author 221: David Walker
+Erdos number: 2
+PageRank: 2.754030
+
+Author 222: Mary Edie Meredith
+Erdos number: 1
+PageRank: 0.251589
+
+Author 223: Leonard D. Shapiro
+Erdos number: 1
+PageRank: 1.257793
+
+Author 224: Xiaoqian Jiang
+Erdos number: 3
+PageRank: 2.881501
+
+Author 225: Lucila Ohno-Machado
+Erdos number: 2
+PageRank: 11.479668
+
+Author 226: Hongkai Xiong
+Erdos number: 2
+PageRank: 0.773544
+
+Author 227: Jihoon Kim
+Erdos number: 3
+PageRank: 1.548952
+
+Author 228: Li Xiong
+Erdos number: 2
+PageRank: 0.367272
+
+Author 229: Brian E. Chapman
+Erdos number: 3
+PageRank: 0.836190
+
+Author 230: Wendy Webber Chapman
+Erdos number: 3
+PageRank: 0.988645
+
+Author 231: Neda Alipanah
+Erdos number: 3
+PageRank: 0.731599
+
+Author 232: Hyeoneui Kim
+Erdos number: 3
+PageRank: 1.684073
+
+Author 233: Aziz A. Boxwala
+Erdos number: 3
+PageRank: 3.812341
+
+Author 234: Claudiu Farcas
+Erdos number: 3
+PageRank: 0.724338
+
+Author 235: Michael E. Matheny
+Erdos number: 3
+PageRank: 1.799373
+
+Author 236: Randolph A. Miller
+Erdos number: 3
+PageRank: 1.106224
+
+Author 237: Hua Xu
+Erdos number: 2
+PageRank: 1.216315
+
+Author 238: Alexander Hsieh
+Erdos number: 3
+PageRank: 0.699340
+
+Author 239: Nigel Collier
+Erdos number: 3
+PageRank: 0.261626
+
+Author 240: Mindy K. Ross
+Erdos number: 3
+PageRank: 0.600962
+
+Author 241: Andra DeHon
+Erdos number: 3
+PageRank: 0.821239
+
+Author 242: John Wawrzynek
+Erdos number: 3
+PageRank: 0.674817
+
+Author 243: Gio Wiederhold
+Erdos number: 1
+PageRank: 1.162512
+
+Author 244: Scott Klasky
+Erdos number: 2
+PageRank: 1.714823
+
+Author 245: Norbert Podhorszki
+Erdos number: 2
+PageRank: 2.232128
+
+Author 246: Martha Escobar-Molano
+Erdos number: 2
+PageRank: 0.568714
+
+Author 247: Roger King
+Erdos number: 2
+PageRank: 1.047514
+
+Author 248: Dennis McLeod
+Erdos number: 2
+PageRank: 0.694153
+
+Author 249: Laura M. Haas
+Erdos number: 1
+PageRank: 3.467616
+
+Author 250: Patricia G. Selinger
+Erdos number: 1
+PageRank: 0.784883
+
+Author 251: Hans-Jarg Schek
+Erdos number: 1
+PageRank: 2.200555
+
+Author 252: Serge Abiteboul
+Erdos number: 1
+PageRank: 8.018616
+
+Author 253: Victor Vianu
+Erdos number: 2
+PageRank: 3.696667
+
+Author 254: Sergei Vassilvitskii
+Erdos number: 2
+PageRank: 0.869171
+
+Author 255: Cong Yu
+Erdos number: 2
+PageRank: 2.582385
+
+Author 256: Georgia Koutrika
+Erdos number: 2
+PageRank: 1.184926
+
+Author 257: Smriti Bhagat
+Erdos number: 3
+PageRank: 0.466348
+
+Author 258: Christophe Diot
+Erdos number: 3
+PageRank: 1.017008
+
+Author 259: Ralf Schenkel
+Erdos number: 2
+PageRank: 1.320340
+
+Author 260: Gerhard Weikum
+Erdos number: 1
+PageRank: 4.604261
+
+Author 261: Florian Waas
+Erdos number: 2
+PageRank: 0.794121
+
+Author 262: Stefan Manegold
+Erdos number: 2
+PageRank: 1.149379
+
+Author 263: Martin Theobald
+Erdos number: 2
+PageRank: 1.183413
+
+Author 264: Terry Heath
+Erdos number: 2
+PageRank: 0.610732
+
+Author 265: Lisha Ma
+Erdos number: 2
+PageRank: 0.250016
+
+Author 266: Werner Nutt
+Erdos number: 2
+PageRank: 1.081067
+
+Author 267: Robert Stevens
+Erdos number: 2
+PageRank: 1.647933
+
+Author 268: Carole A. Goble
+Erdos number: 2
+PageRank: 2.367179
+
+Author 269: Isaac S. Kohane
+Erdos number: 3
+PageRank: 1.495789
+
+Author 270: Senjuti Basu Roy
+Erdos number: 3
+PageRank: 0.834382
+
+Author 271: Gautam Das
+Erdos number: 2
+PageRank: 2.041793
+
+Author 272: Adam Marcus 0002
+Erdos number: 2
+PageRank: 0.917345
+
+Author 273: Sam Madden
+Erdos number: 2
+PageRank: 0.522703
+
+Author 274: Stijn Vansummeren
+Erdos number: 2
+PageRank: 1.402103
+
+Author 275: Gottfried Vossen
+Erdos number: 2
+PageRank: 0.761488
+
+Author 276: Juliana Freire
+Erdos number: 1
+PageRank: 3.974424
+
+Author 277: David Koop
+Erdos number: 2
+PageRank: 1.727426
+
+Author 278: Claudio T. Silva
+Erdos number: 1
+PageRank: 3.108212
+
+Author 279: Sergey Melnik
+Erdos number: 2
+PageRank: 1.110276
+
+Author 280: Minji Wu
+Erdos number: 3
+PageRank: 0.365445
+
+Author 281: Amalie Marian
+Erdos number: 2
+PageRank: 1.791047
+
+Author 282: Ugur aetintemel
+Erdos number: 1
+PageRank: 2.608568
+
+Author 283: Eli Upfal
+Erdos number: 2
+PageRank: 0.882643
+
+Author 284: Loreto Bravo
+Erdos number: 3
+PageRank: 0.365547
+
+Author 285: Irini Fundulaki
+Erdos number: 2
+PageRank: 1.601011
+
+Author 286: Maurice van Keulen
+Erdos number: 3
+PageRank: 0.433446
+
+Author 287: Giovanna Guerrini
+Erdos number: 2
+PageRank: 1.047656
+
+Author 288: Marco Mesiti
+Erdos number: 2
+PageRank: 1.103541
+
+Author 289: Dimitris Plexousakis
+Erdos number: 3
+PageRank: 1.024192
+
+Author 290: Christos Faloutsos
+Erdos number: 2
+PageRank: 2.432012
+
+Author 291: H. V. Jagadish
+Erdos number: 1
+PageRank: 4.515195
+
+Author 292: Michael Wilde
+Erdos number: 2
+PageRank: 1.774617
+
+Author 293: Ian T. Foster
+Erdos number: 2
+PageRank: 2.900953
+
+Author 294: Andrei Z. Broder
+Erdos number: 2
+PageRank: 1.127910
+
+Author 295: Ronny Lempel
+Erdos number: 3
+PageRank: 0.747263
+
+Author 296: Runping Qi
+Erdos number: 2
+PageRank: 0.644737
+
+Author 297: Eugene J. Shekita
+Erdos number: 2
+PageRank: 1.571903
+
+Author 298: Wei Wang 0014
+Erdos number: 3
+PageRank: 0.438292
+
+Author 299: Thu D. Nguyen
+Erdos number: 3
+PageRank: 0.407602
+
+Author 300: Stefano Ceri
+Erdos number: 1
+PageRank: 2.515257
+
+Author 301: Roberto Zicari
+Erdos number: 2
+PageRank: 0.321368
+
+Author 302: Richard T. Snodgrass
+Erdos number: 1
+PageRank: 2.821912
+
+Author 303: David Toman
+Erdos number: 2
+PageRank: 0.461179
+
+Author 304: Louiqa Raschid
+Erdos number: 2
+PageRank: 1.438491
+
+Author 305: Bennet Vance
+Erdos number: 1
+PageRank: 1.123459
+
+Author 306: Vassilis Christophides
+Erdos number: 2
+PageRank: 2.166794
+
+Author 307: Michael Grossniklaus
+Erdos number: 1
+PageRank: 0.447469
+
+Author 308: Michail Vlachos
+Erdos number: 3
+PageRank: 1.390363
+
+Author 309: Eamonn J. Keogh
+Erdos number: 3
+PageRank: 0.927803
+
+Author 310: Dimitrios Gunopulos
+Erdos number: 2
+PageRank: 3.254790
+
+Author 311: Haibo Hu
+Erdos number: 3
+PageRank: 1.335828
+
+Author 312: Jianliang Xu
+Erdos number: 2
+PageRank: 1.985787
+
+Author 313: Chee Yong Chan
+Erdos number: 2
+PageRank: 1.105511
+
+Author 314: Anthony K. H. Tung
+Erdos number: 2
+PageRank: 1.806195
+
+Author 315: Marios Hadjieleftheriou
+Erdos number: 2
+PageRank: 1.647102
+
+Author 316: Vassilis J. Tsotras
+Erdos number: 2
+PageRank: 4.008587
+
+Author 317: Suresh Venkatasubramanian
+Erdos number: 2
+PageRank: 0.935122
+
+Author 318: Dimitra Vista
+Erdos number: 2
+PageRank: 0.385220
+
+Author 319: Donald Kossmann
+Erdos number: 2
+PageRank: 4.031943
+
+Author 320: Nesime Tatbul
+Erdos number: 1
+PageRank: 1.556181
+
+Author 321: Catriel Beeri
+Erdos number: 1
+PageRank: 1.883763
+
+Author 322: Anne-Marie Vercoustre
+Erdos number: 2
+PageRank: 0.592999
+
+Author 323: Peter J. Haas
+Erdos number: 2
+PageRank: 1.997859
+
+Author 324: Volker Markl
+Erdos number: 2
+PageRank: 1.160544
+
+Author 325: Xiaohui Yu
+Erdos number: 3
+PageRank: 0.307007
+
+Author 326: Quan Wang
+Erdos number: 1
+PageRank: 0.599190
+
+Author 327: Caetano Traina Jr.
+Erdos number: 3
+PageRank: 0.866333
+
+Author 328: Bernhard Seeger
+Erdos number: 2
+PageRank: 0.654930
+
+Author 329: Anastasios Kementsietsidis
+Erdos number: 2
+PageRank: 1.210488
+
+Author 330: Francesco Bonchi
+Erdos number: 3
+PageRank: 1.085828
+
+Author 331: Hyun Jin Moon
+Erdos number: 2
+PageRank: 0.709382
+
+Author 332: Amr El Abbadi
+Erdos number: 2
+PageRank: 1.008251
+
+Author 333: Oded Shmueli
+Erdos number: 2
+PageRank: 0.894679
+
+Author 334: Shuigeng Zhou
+Erdos number: 2
+PageRank: 1.451115
+
+Author 335: Sourav S. Bhowmick
+Erdos number: 3
+PageRank: 1.686530
+
+Author 336: Ashish Gupta 0001
+Erdos number: 2
+PageRank: 0.856045
+
+Author 337: Inderpal Singh Mumick
+Erdos number: 2
+PageRank: 1.204037
+
+Author 338: Johannes Gehrke
+Erdos number: 2
+PageRank: 2.473681
+
+Author 339: Vinayak R. Borkar
+Erdos number: 2
+PageRank: 1.986798
+
+Author 340: Neoklis Polyzotis
+Erdos number: 2
+PageRank: 1.541830
+
+Author 341: Alan Nash
+Erdos number: 2
+PageRank: 1.168181
+
+Author 342: Haixun Wang
+Erdos number: 2
+PageRank: 2.326126
+
+Author 343: Balder ten Cate
+Erdos number: 2
+PageRank: 0.853613
+
+Author 344: Phokion G. Kolaitis
+Erdos number: 2
+PageRank: 2.288257
+
+Author 345: Gustavo Alonso
+Erdos number: 2
+PageRank: 1.744379
+
+Author 346: Saumen C. Dey
+Erdos number: 2
+PageRank: 0.604398
+
+Author 347: Fatma azcan
+Erdos number: 2
+PageRank: 1.233205
+
+Author 348: Hamid Pirahesh
+Erdos number: 1
+PageRank: 1.901643
+
+Author 349: Tim Kraska
+Erdos number: 1
+PageRank: 1.845636
+
+Author 350: Xufei Qian
+Erdos number: 3
+PageRank: 0.761561
+
+Author 351: Maryann E. Martone
+Erdos number: 3
+PageRank: 1.690219
+
+Author 352: Amarnath Gupta
+Erdos number: 2
+PageRank: 3.287538
+
+Author 353: Yannis E. Ioannidis
+Erdos number: 1
+PageRank: 3.154966
+
+Author 354: Raghu Ramakrishnan
+Erdos number: 2
+PageRank: 5.767696
+
+Author 355: Hong Gao
+Erdos number: 2
+PageRank: 1.826910
+
+Author 356: Donghui Zhang
+Erdos number: 2
+PageRank: 1.187492
+
+Author 357: Josa A. Blakeley
+Erdos number: 2
+PageRank: 0.632815
+
+Author 358: Jan Paredaens
+Erdos number: 2
+PageRank: 1.936584
+
+Author 359: Theodore Johnson
+Erdos number: 1
+PageRank: 2.031066
+
+Author 360: Dean Jacobs
+Erdos number: 2
+PageRank: 0.774067
+
+Author 361: Huahai Yang
+Erdos number: 2
+PageRank: 0.537521
+
+Author 362: Shaul Dar
+Erdos number: 2
+PageRank: 0.425058
+
+Author 363: Hamid Mousavi
+Erdos number: 2
+PageRank: 0.409603
+
+Author 364: Mauricio A. Hernandez
+Erdos number: 2
+PageRank: 2.519286
+
+Author 365: Rajasekar Krishnamurthy
+Erdos number: 1
+PageRank: 2.386510
+
+Author 366: Lucian Popa
+Erdos number: 2
+PageRank: 4.143093
+
+Author 367: Ryan Wisnesky
+Erdos number: 2
+PageRank: 0.528924
+
+Author 368: Janet L. Wiener
+Erdos number: 2
+PageRank: 1.179161
+
+Author 369: Umeshwar Dayal
+Erdos number: 1
+PageRank: 1.716429
+
+Author 370: Yuqing Wu
+Erdos number: 2
+PageRank: 1.226681
+
+Author 371: Jignesh M. Patel
+Erdos number: 1
+PageRank: 1.278864
+
+Author 372: Jing Zhang
+Erdos number: 2
+PageRank: 1.005379
+
+Author 373: Pavel Velikhov
+Erdos number: 1
+PageRank: 0.872655
+
+Author 374: Benoat Dageville
+Erdos number: 2
+PageRank: 0.438020
+
+Author 375: Patrick Valduriez
+Erdos number: 2
+PageRank: 1.676558
+
+Author 376: Anurag Maskey
+Erdos number: 1
+PageRank: 0.655949
+
+Author 377: Mitch Cherniack
+Erdos number: 1
+PageRank: 1.880706
+
+Author 378: Frank Neven
+Erdos number: 2
+PageRank: 2.420732
+
+Author 379: Ioana Manolescu
+Erdos number: 2
+PageRank: 3.202121
+
+Author 380: Wolfgang May
+Erdos number: 3
+PageRank: 0.921356
+
+Author 381: Philip A. Bernstein
+Erdos number: 1
+PageRank: 4.490055
+
+Author 382: Chavdar Botev
+Erdos number: 2
+PageRank: 0.542559
+
+Author 383: Jayavel Shanmugasundaram
+Erdos number: 1
+PageRank: 2.925493
+
+Author 384: Kam-Fai Wong
+Erdos number: 2
+PageRank: 0.677371
+
+Author 385: Manish Kumar Anand
+Erdos number: 2
+PageRank: 0.773510
+
+Author 386: Timothy M. McPhillips
+Erdos number: 2
+PageRank: 2.287734
+
+Author 387: Rajeev Rastogi
+Erdos number: 2
+PageRank: 3.597618
+
+Author 388: Leonidas Fegaras
+Erdos number: 1
+PageRank: 0.708899
+
+Author 389: Julia Stoyanovich
+Erdos number: 2
+PageRank: 1.112573
+
+Author 390: Tova Milo
+Erdos number: 2
+PageRank: 4.194555
+
+Author 391: Rares Vernica
+Erdos number: 2
+PageRank: 0.782125
+
+Author 392: Andrey Balmin
+Erdos number: 2
+PageRank: 1.533497
+
+Author 393: Kevin S. Beyer
+Erdos number: 2
+PageRank: 1.445730
+
+Author 394: Michael Wang
+Erdos number: 2
+PageRank: 0.321074
+
+Author 395: Bolin Ding
+Erdos number: 2
+PageRank: 0.487965
+
+Author 396: Pierre Senellart
+Erdos number: 2
+PageRank: 1.057359
+
+Author 397: Damianos Chatziantoniou
+Erdos number: 2
+PageRank: 0.249234
+
+Author 398: Staphane Grumbach
+Erdos number: 2
+PageRank: 1.337808
+
+Author 399: Ramakrishna Varadarajan
+Erdos number: 3
+PageRank: 0.217804
+
+Author 400: Goetz Graefe
+Erdos number: 1
+PageRank: 1.413945
+
+Author 401: Wang Chiew Tan
+Erdos number: 2
+PageRank: 3.084905
+
+Author 402: Cristian-Augustin Saita
+Erdos number: 2
+PageRank: 0.296564
+
+Author 403: Franaois Llirbat
+Erdos number: 2
+PageRank: 0.804083
+
+Author 404: Ariel Fuxman
+Erdos number: 2
+PageRank: 1.160925
+
+Author 405: Michael J. Franklin
+Erdos number: 1
+PageRank: 5.434277
+
+Author 406: Lois M. L. Delcambre
+Erdos number: 1
+PageRank: 5.625603
+
+Author 407: Radhika Reddy
+Erdos number: 1
+PageRank: 0.270564
+
+Author 408: Sumit Ganguly
+Erdos number: 2
+PageRank: 0.693588
+
+Author 409: Cassio Souza dos Santos
+Erdos number: 2
+PageRank: 0.479246
+
+Author 410: Claude Delobel
+Erdos number: 2
+PageRank: 1.130770
+
+Author 411: Gao Cong
+Erdos number: 2
+PageRank: 1.462492
+
+Author 412: Antonios Deligiannakis
+Erdos number: 2
+PageRank: 1.241041
+
+Author 413: Yannis Kotidis
+Erdos number: 3
+PageRank: 1.418064
+
+Author 414: Prasenjit Mitra
+Erdos number: 2
+PageRank: 2.127010
+
+Author 415: Daniel J. Abadi
+Erdos number: 2
+PageRank: 1.319474
+
+Author 416: Avi Silberschatz
+Erdos number: 1
+PageRank: 1.039607
+
+Author 417: Peter Buneman
+Erdos number: 1
+PageRank: 3.205742
+
+Author 418: Susan B. Davidson
+Erdos number: 1
+PageRank: 4.026730
+
+Author 419: Micah Sherr
+Erdos number: 2
+PageRank: 1.491974
+
+Author 420: Matt Blaze
+Erdos number: 2
+PageRank: 1.200760
+
+Author 421: Shambhu J. Upadhyaya
+Erdos number: 3
+PageRank: 0.408573
+
+Author 422: Hung Q. Ngo
+Erdos number: 3
+PageRank: 0.540380
+
+Author 423: Paul T. Groth
+Erdos number: 2
+PageRank: 1.697871
+
+Author 424: Simon Miles
+Erdos number: 2
+PageRank: 1.423485
+
+Author 425: Yolanda Gil
+Erdos number: 2
+PageRank: 2.453978
+
+Author 426: Yehoshua Sagiv
+Erdos number: 1
+PageRank: 2.535449
+
+Author 427: Prateek Jain 0003
+Erdos number: 3
+PageRank: 0.213432
+
+Author 428: AnHai Doan
+Erdos number: 2
+PageRank: 2.401070
+
+Author 429: Shivakumar Vaithyanathan
+Erdos number: 2
+PageRank: 1.291155
+
+Author 430: Xibei Jia
+Erdos number: 2
+PageRank: 0.786658
+
+Author 431: S. Sudarshan 0001
+Erdos number: 2
+PageRank: 2.296227
+
+Author 432: Till Westmann
+Erdos number: 2
+PageRank: 1.020578
+
+Author 433: Nicola Onose
+Erdos number: 2
+PageRank: 1.778707
+
+Author 434: Michael Stonebraker
+Erdos number: 1
+PageRank: 5.753907
+
+Author 435: Randy H. Katz
+Erdos number: 2
+PageRank: 1.374401
+
+Author 436: Stephen Blott
+Erdos number: 2
+PageRank: 0.430561
+
+Author 437: Anand Rajaraman
+Erdos number: 2
+PageRank: 1.193723
+
+Author 438: Joann J. Ordille
+Erdos number: 2
+PageRank: 0.405608
+
+Author 439: Jeffrey F. Naughton
+Erdos number: 1
+PageRank: 3.976881
+
+Author 440: Sunita Sarawagi
+Erdos number: 2
+PageRank: 1.168577
+
+Author 441: Henry F. Korth
+Erdos number: 1
+PageRank: 2.523212
+
+Author 442: Abraham Silberschatz
+Erdos number: 1
+PageRank: 3.279645
+
+Author 443: G. Christian Overton
+Erdos number: 2
+PageRank: 0.558933
+
+Author 444: Limsoon Wong
+Erdos number: 2
+PageRank: 1.613318
+
+Author 445: Arnon Rosenthal
+Erdos number: 2
+PageRank: 0.977339
+
+Author 446: Ryan Huebsch
+Erdos number: 2
+PageRank: 0.698986
+
+Author 447: Scott Shenker
+Erdos number: 2
+PageRank: 3.646214
+
+Author 448: Ion Stoica
+Erdos number: 2
+PageRank: 4.429909
+
+Author 449: Kyuseok Shim
+Erdos number: 2
+PageRank: 1.256758
+
+Author 450: Christian S. Jensen
+Erdos number: 2
+PageRank: 2.426382
+
+Author 451: Sriram Raghavan
+Erdos number: 2
+PageRank: 0.934721
+
+Author 452: Zhen Hua Liu
+Erdos number: 2
+PageRank: 1.535906
+
+Author 453: Anguel Novoselsky
+Erdos number: 2
+PageRank: 0.597393
+
+Author 454: Timos K. Sellis
+Erdos number: 1
+PageRank: 2.007230
+
+Author 455: Todd J. Green
+Erdos number: 2
+PageRank: 1.159833
+
+Author 456: Piotr Indyk
+Erdos number: 2
+PageRank: 1.018572
+
+Author 457: Maria Zemankova
+Erdos number: 2
+PageRank: 0.218186
+
+Author 458: Shuai Ma
+Erdos number: 3
+PageRank: 1.743119
+
+Author 459: Praveen Seshadri
+Erdos number: 2
+PageRank: 0.765059
+
+Author 460: Barbara T. Blaustein
+Erdos number: 2
+PageRank: 0.621233
+
+Author 461: Alon Y. Halevy
+Erdos number: 1
+PageRank: 5.269000
+
+Author 462: Gregory Cobena
+Erdos number: 2
+PageRank: 0.646824
+
+Author 463: Sagit Zohar
+Erdos number: 2
+PageRank: 0.244361
+
+Author 464: Pratik Mukhopadhyay
+Erdos number: 3
+PageRank: 0.214287
+
+Author 465: Vasilis Vassalos
+Erdos number: 2
+PageRank: 2.234162
+
+Author 466: Dallan Quass
+Erdos number: 2
+PageRank: 0.842258
+
+Author 467: Fernando Valez
+Erdos number: 1
+PageRank: 0.502987
+
+Author 468: David Li
+Erdos number: 2
+PageRank: 0.564147
+
+Author 469: Ivan Oprencak
+Erdos number: 2
+PageRank: 0.565228
+
+Author 470: Rajendra Panwar
+Erdos number: 2
+PageRank: 0.546282
+
+Author 471: David Rieber
+Erdos number: 2
+PageRank: 0.546282
+
+Author 472: John C. Shafer
+Erdos number: 2
+PageRank: 0.643546
+
+Author 473: Brian Sterling
+Erdos number: 2
+PageRank: 0.546282
+
+Author 474: Tolga Urhan
+Erdos number: 2
+PageRank: 0.729127
+
+Author 475: Brian Vickery
+Erdos number: 2
+PageRank: 0.715378
+
+Author 476: Dan Wineman
+Erdos number: 2
+PageRank: 0.546282
+
+Author 477: Kuan Yee
+Erdos number: 2
+PageRank: 0.546282
+
+Author 478: Andreas Reuter
+Erdos number: 1
+PageRank: 0.522655
+
+Author 479: Fereidoon Sadri
+Erdos number: 1
+PageRank: 0.630555
+
+Author 480: Sophie Cluet
+Erdos number: 1
+PageRank: 1.805408
+
+Author 481: Stratis Viglas
+Erdos number: 1
+PageRank: 1.450528
+
+Author 482: Samuel Madden
+Erdos number: 1
+PageRank: 4.031326
+
+Author 483: Nilesh N. Dalvi
+Erdos number: 2
+PageRank: 0.932966
+
+Author 484: Dennis Shasha
+Erdos number: 2
+PageRank: 1.437643
+
+Author 485: Eric Simon
+Erdos number: 2
+PageRank: 1.337972
+
+Author 486: Chun Zhang
+Erdos number: 1
+PageRank: 1.338620
+
+Author 487: Ravi Vijay
+Erdos number: 3
+PageRank: 0.211965
+
+Author 488: Laura Bright
+Erdos number: 1
+PageRank: 0.604217
+
+Author 489: Bogdan Alexe
+Erdos number: 2
+PageRank: 1.339891
+
+Author 490: Gaurav Vijayvargiya
+Erdos number: 3
+PageRank: 0.207330
+
+Author 491: Aoying Zhou
+Erdos number: 2
+PageRank: 1.901509
+
+Author 492: Diego Calvanese
+Erdos number: 2
+PageRank: 5.168726
+
+Author 493: Kristin Tufte
+Erdos number: 1
+PageRank: 2.269904
+
+Author 494: Xin Dong 0001
+Erdos number: 2
+PageRank: 0.810484
+
+Author 495: Igor Tatarinov
+Erdos number: 2
+PageRank: 1.566258
+
+Author 496: Jayant Madhavan
+Erdos number: 2
+PageRank: 1.715193
+
+Author 497: Gerome Miklau
+Erdos number: 2
+PageRank: 0.955471
+
+Author 498: Shirley Cohen
+Erdos number: 2
+PageRank: 1.049419
+
+Author 499: Philip Bohannon
+Erdos number: 2
+PageRank: 1.905471
+
+Author 500: P. P. S. Narayan
+Erdos number: 2
+PageRank: 0.707942
+
+Author 501: Val Tannen
+Erdos number: 2
+PageRank: 4.094564
+
+Author 502: Ashraf Aboulnaga
+Erdos number: 1
+PageRank: 0.958464
+
+Author 503: Bill Howe
+Erdos number: 1
+PageRank: 2.365880
+
+Author 504: Florian Matthes
+Erdos number: 1
+PageRank: 0.868875
+
+Author 505: Joachim W. Schmidt
+Erdos number: 1
+PageRank: 1.033023
+
+Author 506: Philippe Rigaux
+Erdos number: 2
+PageRank: 0.790754
+
+Author 507: Luc Segoufin
+Erdos number: 2
+PageRank: 2.252636
+
+Author 508: Boualem Benatallah
+Erdos number: 3
+PageRank: 0.972443
+
+Author 509: Anne H. H. Ngu
+Erdos number: 2
+PageRank: 0.767809
+
+Author 510: Chris Hillery
+Erdos number: 2
+PageRank: 0.572332
+
+Author 511: Paul Lucas
+Erdos number: 2
+PageRank: 0.510416
+
+Author 512: Fabio Riccardi
+Erdos number: 2
+PageRank: 0.510416
+
+Author 513: Arvind Sundararajan
+Erdos number: 2
+PageRank: 0.510416
+
+Author 514: Geetika Agrawal
+Erdos number: 2
+PageRank: 0.341001
+
+Author 515: Fatma Ozcan
+Erdos number: 2
+PageRank: 0.548545
+
+Author 516: Tianqiu Wang
+Erdos number: 3
+PageRank: 0.274778
+
+Author 517: Khaled Yagoub
+Erdos number: 2
+PageRank: 0.666844
+
+Author 518: Valarie Issarny
+Erdos number: 2
+PageRank: 0.405886
+
+Author 519: Patrick E. O'Neil
+Erdos number: 2
+PageRank: 0.635283
+
+Author 520: Daniel F. Lieuwen
+Erdos number: 2
+PageRank: 2.412808
+
+Author 521: Alejandro P. Buchmann
+Erdos number: 2
+PageRank: 1.732278
+
+Author 522: Douglas Stott Parker Jr.
+Erdos number: 2
+PageRank: 0.485834
+
+Author 523: Howard Ho
+Erdos number: 2
+PageRank: 1.256569
+
+Author 524: Ioana Stanoi
+Erdos number: 2
+PageRank: 0.837998
+
+Author 525: Klaus R. Dittrich
+Erdos number: 1
+PageRank: 2.226660
+
+Author 526: Andrew Pavlo
+Erdos number: 1
+PageRank: 0.912088
+
+Author 527: Subramanya Dulloor
+Erdos number: 2
+PageRank: 0.205230
+
+Author 528: Leonidas Galanis
+Erdos number: 1
+PageRank: 0.843615
+
+Author 529: Yuan Wang
+Erdos number: 1
+PageRank: 0.918702
+
+Author 530: Craig A. Knoblock
+Erdos number: 1
+PageRank: 1.106319
+
+Author 531: Gail Mitchell
+Erdos number: 2
+PageRank: 0.429627
+
+Author 532: Sarah Cohen Boulakia
+Erdos number: 2
+PageRank: 1.226876
+
+Author 533: Michael Schrefl
+Erdos number: 1
+PageRank: 0.498275
+
+Author 534: Qiong Luo
+Erdos number: 1
+PageRank: 1.589375
+
+Author 535: Esther Ryvkina
+Erdos number: 1
+PageRank: 0.452261
+
+Author 536: Richard Tibbetts
+Erdos number: 1
+PageRank: 0.502826
+
+Author 537: Michael Flaster
+Erdos number: 3
+PageRank: 0.283167
+
+Author 538: Geert Jan Bex
+Erdos number: 3
+PageRank: 0.840979
+
+Author 539: Thomas Schwentick
+Erdos number: 2
+PageRank: 4.173088
+
+Author 540: Karl Tuyls
+Erdos number: 2
+PageRank: 0.299026
+
+Author 541: Jarame Simaon
+Erdos number: 2
+PageRank: 3.042847
+
+Author 542: Walid A. Najjar
+Erdos number: 3
+PageRank: 0.444848
+
+Author 543: Subbu N. Subramanian
+Erdos number: 2
+PageRank: 0.416469
+
+Author 544: Utkarsh Srivastava
+Erdos number: 2
+PageRank: 0.921064
+
+Author 545: Swarup Acharya
+Erdos number: 2
+PageRank: 0.440238
+
+Author 546: Laurent Mignet
+Erdos number: 2
+PageRank: 0.670519
+
+Author 547: Bruno Tessier
+Erdos number: 2
+PageRank: 0.303089
+
+Author 548: Thanos Papadimitriou
+Erdos number: 3
+PageRank: 0.240043
+
+Author 549: Zografoula Vagena
+Erdos number: 2
+PageRank: 1.250460
+
+Author 550: Ronald Fagin
+Erdos number: 1
+PageRank: 2.687348
+
+Author 551: Florian Xhumari
+Erdos number: 2
+PageRank: 0.228144
+
+Author 552: Grigoris Karvounarakis
+Erdos number: 3
+PageRank: 0.787256
+
+Author 553: Reza Sadri
+Erdos number: 2
+PageRank: 0.575235
+
+Author 554: Amir M. Zarkesh
+Erdos number: 2
+PageRank: 0.572443
+
+Author 555: Jafar Adibi
+Erdos number: 2
+PageRank: 0.632989
+
+Author 556: Jeong-Hyon Hwang
+Erdos number: 2
+PageRank: 0.728090
+
+Author 557: Vladislav Shkapenyuk
+Erdos number: 1
+PageRank: 1.031021
+
+Author 558: Margo I. Seltzer
+Erdos number: 2
+PageRank: 1.178643
+
+Author 559: Wook-Shin Han
+Erdos number: 3
+PageRank: 0.873379
+
+Author 560: Michael Benedikt
+Erdos number: 2
+PageRank: 1.922914
+
+Author 561: Shihui Zheng
+Erdos number: 3
+PageRank: 0.521791
+
+Author 562: Themis Palpanas
+Erdos number: 2
+PageRank: 0.888706
+
+Author 563: Michael Tan
+Erdos number: 2
+PageRank: 0.209106
+
+Author 564: Mounia Lalmas
+Erdos number: 3
+PageRank: 0.626008
+
+Author 565: Jonathan Goldstein
+Erdos number: 1
+PageRank: 0.704509
+
+Author 566: Jianting Zhang
+Erdos number: 2
+PageRank: 1.102300
+
+Author 567: Le Gruenwald
+Erdos number: 2
+PageRank: 1.524251
+
+Author 568: Michael Novak
+Erdos number: 2
+PageRank: 0.580113
+
+Author 569: William E. Weihl
+Erdos number: 3
+PageRank: 0.826760
+
+Author 570: Lawrence A. Rowe
+Erdos number: 1
+PageRank: 0.795543
+
+Author 571: Ralph Busse
+Erdos number: 2
+PageRank: 0.410736
+
+Author 572: Avi Pfeffer
+Erdos number: 2
+PageRank: 0.880979
+
+Author 573: Yi Chen 0001
+Erdos number: 2
+PageRank: 0.635504
+
+Author 574: Carmem S. Hara
+Erdos number: 2
+PageRank: 0.672266
+
+Author 575: Sungho Hong
+Erdos number: 2
+PageRank: 0.185919
+
+Author 576: Byron Choi
+Erdos number: 2
+PageRank: 2.553543
+
+Author 577: Arek Kasprzyk
+Erdos number: 3
+PageRank: 0.474315
+
+Author 578: Bharat Kumar
+Erdos number: 2
+PageRank: 2.646312
+
+Author 579: Daphne Koller
+Erdos number: 2
+PageRank: 1.103770
+
+Author 580: Jaime Castillo
+Erdos number: 2
+PageRank: 0.448520
+
+Author 581: Shih-Hui Lu
+Erdos number: 2
+PageRank: 0.448520
+
+Author 582: Junhui Luo
+Erdos number: 2
+PageRank: 0.448520
+
+Author 583: Chiu Tsang
+Erdos number: 2
+PageRank: 0.448520
+
+Author 584: Gang Zhou
+Erdos number: 2
+PageRank: 1.244994
+
+Author 585: Jianhua Lu
+Erdos number: 3
+PageRank: 0.210095
+
+Author 586: Fabien Azavant
+Erdos number: 3
+PageRank: 0.288538
+
+Author 587: Shashank Pandit
+Erdos number: 3
+PageRank: 0.294404
+
+Author 588: Yannis Theodoridis
+Erdos number: 2
+PageRank: 0.757517
+
+Author 589: Yin Zhang
+Erdos number: 2
+PageRank: 1.337419
+
+Author 590: Praveen Yalagandula
+Erdos number: 3
+PageRank: 1.035075
+
+Author 591: Molham Aref
+Erdos number: 2
+PageRank: 0.409913
+
+Author 592: Fang Du
+Erdos number: 2
+PageRank: 0.221191
+
+Author 593: Masatoshi Yoshikawa
+Erdos number: 2
+PageRank: 0.584096
+
+Author 594: C. T. Howard Ho
+Erdos number: 2
+PageRank: 0.895910
+
+Author 595: Paolo Papotti
+Erdos number: 2
+PageRank: 0.739291
+
+Author 596: Peter Mork
+Erdos number: 2
+PageRank: 1.586293
+
+Author 597: Anand Manikutty
+Erdos number: 2
+PageRank: 0.563521
+
+Author 598: James W. Warner
+Erdos number: 2
+PageRank: 0.650588
+
+Author 599: Vikas Arora
+Erdos number: 2
+PageRank: 1.139713
+
+Author 600: Susan Kotsovolos
+Erdos number: 2
+PageRank: 0.552180
+
+Author 601: Steffen Rost
+Erdos number: 2
+PageRank: 0.240215
+
+Author 602: Gargi Sur
+Erdos number: 2
+PageRank: 0.241717
+
+Author 603: Bogdan Cautis
+Erdos number: 2
+PageRank: 0.979545
+
+Author 604: Feng Tian
+Erdos number: 1
+PageRank: 0.809916
+
+Author 605: Qing Zhang
+Erdos number: 3
+PageRank: 0.673468
+
+Author 606: Rokas Tamosevicius
+Erdos number: 2
+PageRank: 0.241930
+
+Author 607: Yiming Zeng
+Erdos number: 3
+PageRank: 0.183995
+
+Author 608: Konstantinos Krikellas
+Erdos number: 2
+PageRank: 0.440559
+
+Author 609: Wee Keong Ng
+Erdos number: 3
+PageRank: 0.966864
+
+Author 610: Xiang Li
+Erdos number: 3
+PageRank: 1.040858
+
+Author 611: Bojan Pepik
+Erdos number: 3
+PageRank: 0.988533
+
+Author 612: Michael Stark 0003
+Erdos number: 2
+PageRank: 2.229949
+
+Author 613: Peter V. Gehler
+Erdos number: 3
+PageRank: 0.801153
+
+Author 614: Bernt Schiele
+Erdos number: 3
+PageRank: 2.957260
+
+Author 615: Carlotta Domeniconi
+Erdos number: 3
+PageRank: 0.541559
+
+Author 616: Konrad Schindler
+Erdos number: 3
+PageRank: 0.616916
+
+Author 617: Pietro Perona
+Erdos number: 3
+PageRank: 0.460207
+
+Author 618: B. Gopinath
+Erdos number: 3
+PageRank: 0.688680
+
+Author 619: George W. Hart
+Erdos number: 3
+PageRank: 0.327380
+
+Author 620: C. Lee Giles
+Erdos number: 2
+PageRank: 1.982216
+
+Author 621: Sofiane Abbar
+Erdos number: 3
+PageRank: 0.695595
+
+Author 622: Sepideh Mahabadi
+Erdos number: 3
+PageRank: 0.419972
+
+Author 623: Nadav Golbandi
+Erdos number: 3
+PageRank: 0.523868
+
+Author 624: Gabriel M. Kuper
+Erdos number: 2
+PageRank: 0.996072
+
+Author 625: Mihai Preda
+Erdos number: 2
+PageRank: 0.329389
+
+Author 626: Balachander Krishnamurthy
+Erdos number: 2
+PageRank: 0.787836
+
+Author 627: Spyros Zoupanos
+Erdos number: 2
+PageRank: 0.454048
+
+Author 628: Shriram Krishnamurthi
+Erdos number: 3
+PageRank: 1.614396
+
+Author 629: Jonathan Robie
+Erdos number: 2
+PageRank: 0.339813
+
+Author 630: Stefan Savage
+Erdos number: 3
+PageRank: 2.054471
+
+Author 631: Geoffrey M. Voelker
+Erdos number: 3
+PageRank: 2.366483
+
+Author 632: Hamid R. Motahari Nezhad
+Erdos number: 3
+PageRank: 1.431246
+
+Author 633: Peter F. Patel-Schneider
+Erdos number: 2
+PageRank: 1.055918
+
+Author 634: Sriram Varadarajan
+Erdos number: 2
+PageRank: 0.841494
+
+Author 635: Avinash Vyas
+Erdos number: 2
+PageRank: 1.381749
+
+Author 636: Seungjoon Lee
+Erdos number: 3
+PageRank: 1.284768
+
+Author 637: Jacobus E. van der Merwe
+Erdos number: 2
+PageRank: 2.375928
+
+Author 638: Michalis Petropoulos
+Erdos number: 2
+PageRank: 1.470799
+
+Author 639: Katsumi Tanaka
+Erdos number: 2
+PageRank: 0.509405
+
+Author 640: Oren Etzioni
+Erdos number: 2
+PageRank: 0.921686
+
+Author 641: Daniel S. Weld
+Erdos number: 2
+PageRank: 1.094419
+
+Author 642: Djoerd Hiemstra
+Erdos number: 2
+PageRank: 0.444569
+
+Author 643: Jia Wang
+Erdos number: 2
+PageRank: 1.355722
+
+Author 644: Jun Zhao 0003
+Erdos number: 2
+PageRank: 1.069931
+
+Author 645: Jeffrey C. Mogul
+Erdos number: 3
+PageRank: 1.339788
+
+Author 646: Amin Vahdat
+Erdos number: 3
+PageRank: 3.542912
+
+Author 647: Amy R. Reibman
+Erdos number: 3
+PageRank: 0.677302
+
+Author 648: Gregory Karvounarakis
+Erdos number: 2
+PageRank: 0.937273
+
+Author 649: Sunwon Lee
+Erdos number: 2
+PageRank: 1.068826
+
+Author 650: Jaewoo Kang
+Erdos number: 1
+PageRank: 4.878891
+
+Author 651: Partha Pratim Talukdar
+Erdos number: 2
+PageRank: 0.777325
+
+Author 652: Ghislain Fourny
+Erdos number: 2
+PageRank: 0.336037
+
+Author 653: Darin McBeath
+Erdos number: 2
+PageRank: 0.242682
+
+Author 654: Alexandre Gerber
+Erdos number: 2
+PageRank: 1.175070
+
+Author 655: Zibin Zheng
+Erdos number: 3
+PageRank: 0.841554
+
+Author 656: Pascal Neveu
+Erdos number: 3
+PageRank: 0.171779
+
+Author 657: Emiran Curtmola
+Erdos number: 2
+PageRank: 0.984137
+
+Author 658: Philip Brown
+Erdos number: 2
+PageRank: 0.416895
+
+Author 659: Wanhong Xu
+Erdos number: 2
+PageRank: 0.349163
+
+Author 660: Stefan Brands
+Erdos number: 3
+PageRank: 0.632479
+
+Author 661: Kim Cameron
+Erdos number: 3
+PageRank: 0.632479
+
+Author 662: Cahill Conor
+Erdos number: 3
+PageRank: 0.632479
+
+Author 663: Aude Pichelin
+Erdos number: 3
+PageRank: 0.632479
+
+Author 664: Fulup Ar Foll
+Erdos number: 3
+PageRank: 0.632479
+
+Author 665: Mike Neuenschwander
+Erdos number: 3
+PageRank: 0.632479
+
+Author 666: Tianyu Wo
+Erdos number: 3
+PageRank: 0.690213
+
+Author 667: David R. Karger
+Erdos number: 2
+PageRank: 1.597333
+
+Author 668: Esteban Feuerstein
+Erdos number: 3
+PageRank: 0.341720
+
+Author 669: Isabel Mandez-Daaz
+Erdos number: 3
+PageRank: 0.803344
+
+Author 670: Paula Zabala
+Erdos number: 3
+PageRank: 0.803344
+
+Author 671: Martan Abadi
+Erdos number: 2
+PageRank: 1.234024
+
+Author 672: Wouter Gelade
+Erdos number: 3
+PageRank: 0.777444
+
+Author 673: Kristoffer Hagsbro Rose
+Erdos number: 3
+PageRank: 0.462773
+
+Author 674: Lionel Villard
+Erdos number: 3
+PageRank: 0.386465
+
+Author 675: Andreas Granhagen
+Erdos number: 2
+PageRank: 0.355345
+
+Author 676: Christopher Olston
+Erdos number: 2
+PageRank: 0.733243
+
+Author 677: Karen Schuchardt
+Erdos number: 2
+PageRank: 1.162716
+
+Author 678: Ashraf Memon
+Erdos number: 3
+PageRank: 0.519329
+
+Author 679: Ilkay Altintas
+Erdos number: 2
+PageRank: 2.879720
+
+Author 680: Chaitan Baru
+Erdos number: 3
+PageRank: 0.974997
+
+Author 681: Mao Yang
+Erdos number: 2
+PageRank: 0.560591
+
+Author 682: Xi Zhang
+Erdos number: 3
+PageRank: 0.407580
+
+Author 683: Manish Parashar
+Erdos number: 3
+PageRank: 1.140199
+
+Author 684: Scott B. Baden
+Erdos number: 2
+PageRank: 6.092758
+
+Author 685: Daniel Shalit
+Erdos number: 3
+PageRank: 0.476029
+
+Author 686: Yinan Li
+Erdos number: 2
+PageRank: 0.787443
+
+Author 687: Jack Dongarra
+Erdos number: 2
+PageRank: 1.734379
+
+Author 688: Edward A. Lee
+Erdos number: 3
+PageRank: 0.864728
+
+Author 689: Peter M. A. Sloot
+Erdos number: 2
+PageRank: 0.488847
+
+Author 690: Deana Pennington
+Erdos number: 2
+PageRank: 1.075661
+
+Author 691: William Michener
+Erdos number: 2
+PageRank: 1.123954
+
+Author 692: Beth Plale
+Erdos number: 2
+PageRank: 1.227521
+
+Author 693: Ewa Deelman
+Erdos number: 2
+PageRank: 2.195465
+
+Author 694: Gaurang Mehta
+Erdos number: 2
+PageRank: 1.747750
+
+Author 695: Marco Cadoli
+Erdos number: 3
+PageRank: 0.427125
+
+Author 696: David L. Wells
+Erdos number: 3
+PageRank: 0.342115
+
+Author 697: Scott Daniels
+Erdos number: 1
+PageRank: 0.622842
+
+Author 698: Thomas Keller 0005
+Erdos number: 1
+PageRank: 0.620472
+
+Author 699: Jacob Stein
+Erdos number: 1
+PageRank: 1.334093
+
+Author 700: Steven P. Reiss
+Erdos number: 2
+PageRank: 0.348800
+
+Author 701: Jihie Kim
+Erdos number: 2
+PageRank: 1.424543
+
+Author 702: Jeremy L. Wyatt
+Erdos number: 3
+PageRank: 0.693285
+
+Author 703: Michael Zillich
+Erdos number: 3
+PageRank: 0.693285
+
+Author 704: Varun Ratnakar
+Erdos number: 2
+PageRank: 1.493855
+
+Author 705: Sebastian Sardiaa
+Erdos number: 3
+PageRank: 0.533182
+
+Author 706: Marie-Christine Rousset
+Erdos number: 2
+PageRank: 1.555283
+
+Author 707: Moshe Y. Vardi
+Erdos number: 1
+PageRank: 3.336374
+
+Author 708: Michael Zakharyaschev
+Erdos number: 3
+PageRank: 0.346353
+
+Author 709: Marc Friedman
+Erdos number: 2
+PageRank: 0.549152
+
+Author 710: Todd D. Millstein
+Erdos number: 2
+PageRank: 0.460716
+
+Author 711: John H. Gennari
+Erdos number: 2
+PageRank: 0.938945
+
+Author 712: Yumi Iwasaki
+Erdos number: 2
+PageRank: 0.432939
+
+Author 713: David Meger
+Erdos number: 3
+PageRank: 1.019497
+
+Author 714: James J. Little
+Erdos number: 3
+PageRank: 1.019497
+
+Author 715: Richard Fikes
+Erdos number: 2
+PageRank: 0.495900
+
+Author 716: Riccardo De Masellis
+Erdos number: 2
+PageRank: 1.025158
+
+Author 717: Sheila A. McIlraith
+Erdos number: 2
+PageRank: 0.492466
+
+Author 718: Vassilis Stoumpos
+Erdos number: 2
+PageRank: 0.639630
+
+Author 719: Alex Delis
+Erdos number: 2
+PageRank: 1.008567
+
+Author 720: Magdalena Balazinska
+Erdos number: 1
+PageRank: 2.883726
+
+Author 721: Christian Baumgartner
+Erdos number: 3
+PageRank: 0.705736
+
+Author 722: Bernhard Tilg
+Erdos number: 3
+PageRank: 0.593653
+
+Author 723: Stephan Dreiseitl
+Erdos number: 3
+PageRank: 2.121710
+
+Author 724: Edward A. Fox
+Erdos number: 1
+PageRank: 1.293727
+
+Author 725: Joe Futrelle
+Erdos number: 2
+PageRank: 0.999309
+
+Author 726: Sivaramakrishnan Narayanan
+Erdos number: 3
+PageRank: 0.536358
+
+Author 727: Prabuddha Biswas
+Erdos number: 3
+PageRank: 0.567786
+
+Author 728: K. K. Ramakrishnan
+Erdos number: 2
+PageRank: 7.271171
+
+Author 729: Donald F. Towsley
+Erdos number: 2
+PageRank: 2.401978
+
+Author 730: C. M. Krishna
+Erdos number: 3
+PageRank: 0.343377
+
+Author 731: Jeffrey S. Chase
+Erdos number: 3
+PageRank: 1.986596
+
+Author 732: Andrew A. Chien
+Erdos number: 3
+PageRank: 1.222340
+
+Author 733: Henri Casanova
+Erdos number: 3
+PageRank: 2.039036
+
+Author 734: Ken Yocum
+Erdos number: 2
+PageRank: 2.032232
+
+Author 735: Andrew J. Gallatin
+Erdos number: 3
+PageRank: 0.423760
+
+Author 736: Alvin R. Lebeck
+Erdos number: 3
+PageRank: 0.495722
+
+Author 737: Darrell C. Anderson
+Erdos number: 3
+PageRank: 0.683428
+
+Author 738: Ben Clifford
+Erdos number: 2
+PageRank: 1.248294
+
+Author 739: Francine Berman
+Erdos number: 2
+PageRank: 1.920512
+
+Author 740: Uttam N. Shikarpur
+Erdos number: 3
+PageRank: 0.363003
+
+Author 741: Kathleen M. Wilde
+Erdos number: 3
+PageRank: 0.363003
+
+Author 742: Harjot Gill
+Erdos number: 2
+PageRank: 0.475528
+
+Author 743: Chandra Krintz
+Erdos number: 3
+PageRank: 0.917190
+
+Author 744: Brad Calder
+Erdos number: 3
+PageRank: 1.373505
+
+Author 745: Alex C. Snoeren
+Erdos number: 3
+PageRank: 1.994637
+
+Author 746: Charles Consel
+Erdos number: 2
+PageRank: 0.787043
+
+Author 747: Mathew Weaver
+Erdos number: 1
+PageRank: 1.862796
+
+Author 748: Jason Brewster
+Erdos number: 1
+PageRank: 0.697544
+
+Author 749: Afrem Gutema
+Erdos number: 1
+PageRank: 0.697544
+
+Author 750: Scott Britell
+Erdos number: 1
+PageRank: 0.644614
+
+Author 751: Byung-Won On
+Erdos number: 2
+PageRank: 0.863400
+
+Author 752: Dongwon Lee
+Erdos number: 2
+PageRank: 1.377716
+
+Author 753: David W. Archer
+Erdos number: 1
+PageRank: 0.735982
+
+Author 754: Susan Price
+Erdos number: 1
+PageRank: 1.025913
+
+Author 755: Sudarshan Murthy
+Erdos number: 1
+PageRank: 1.348266
+
+Author 756: John McCall
+Erdos number: 1
+PageRank: 0.429387
+
+Author 757: Kiran Kuchibhotla
+Erdos number: 1
+PageRank: 0.380739
+
+Author 758: Rahul Suryavanshi
+Erdos number: 1
+PageRank: 0.380739
+
+Author 759: Jeremy Steinhauer
+Erdos number: 1
+PageRank: 0.689879
+
+Author 760: Marianne Lykke
+Erdos number: 1
+PageRank: 0.469387
+
+Author 761: Marianne Lykke Nielsen
+Erdos number: 1
+PageRank: 1.044709
+
+Author 762: Jin Cao
+Erdos number: 2
+PageRank: 0.459237
+
+Author 763: Paulo Santos
+Erdos number: 2
+PageRank: 0.566516
+
+Author 764: Douglas A. Cenzer
+Erdos number: 3
+PageRank: 2.440102
+
+Author 765: Jeffrey B. Remmel
+Erdos number: 2
+PageRank: 6.479869
+
+Author 766: Amy Vanderbilt
+Erdos number: 3
+PageRank: 0.620761
+
+Author 767: Victor W. Marek
+Erdos number: 3
+PageRank: 1.441994
+
+Author 768: Ge Yu
+Erdos number: 2
+PageRank: 0.939378
+
+Author 769: Jean-Robert Gruser
+Erdos number: 2
+PageRank: 0.368984
+
+Author 770: Ling-Ling Yan
+Erdos number: 2
+PageRank: 0.747103
+
+Author 771: Jean-Claude Franchitti
+Erdos number: 2
+PageRank: 0.395199
+
+Author 772: Thomas Kudrass
+Erdos number: 3
+PageRank: 0.673063
+
+Author 773: Markus Kradolfer
+Erdos number: 2
+PageRank: 0.462002
+
+Author 774: Andreas Geppert
+Erdos number: 2
+PageRank: 2.244229
+
+Author 775: Subhash Suri
+Erdos number: 3
+PageRank: 1.719886
+
+Author 776: Sudeepa Roy
+Erdos number: 2
+PageRank: 0.729638
+
+Author 777: Dirk Van Gucht
+Erdos number: 2
+PageRank: 1.677510
+
+Author 778: Christos Kozanitis
+Erdos number: 2
+PageRank: 1.163499
+
+Author 779: Christopher T. Saunders
+Erdos number: 3
+PageRank: 0.531283
+
+Author 780: Semyon Kruglyak
+Erdos number: 3
+PageRank: 0.531283
+
+Author 781: Vineet Bafna
+Erdos number: 2
+PageRank: 1.263622
+
+Author 782: Anca Vaduva
+Erdos number: 2
+PageRank: 0.399865
+
+Author 783: Stella Gatziu
+Erdos number: 2
+PageRank: 0.920168
+
+Author 784: Nan Tang 0001
+Erdos number: 2
+PageRank: 1.424181
+
+Author 785: Wenyuan Yu
+Erdos number: 3
+PageRank: 0.781185
+
+Author 786: Ying Lu
+Erdos number: 2
+PageRank: 0.704965
+
+Author 787: Cecilia M. Procopiuc
+Erdos number: 2
+PageRank: 0.854409
+
+Author 788: Entong Shen
+Erdos number: 3
+PageRank: 0.633794
+
+Author 789: James F. Terwilliger
+Erdos number: 1
+PageRank: 1.219127
+
+Author 790: Yannis Katsis
+Erdos number: 2
+PageRank: 1.017401
+
+Author 791: Nicolas Rayner
+Erdos number: 1
+PageRank: 0.236158
+
+Author 792: James Rucker
+Erdos number: 1
+PageRank: 0.407367
+
+Author 793: Bojian Xu
+Erdos number: 2
+PageRank: 0.515775
+
+Author 794: Hwanjo Yu
+Erdos number: 3
+PageRank: 0.781780
+
+Author 795: Wang-Chiew Tan
+Erdos number: 2
+PageRank: 0.320044
+
+Author 796: Jiong Yang
+Erdos number: 2
+PageRank: 1.128504
+
+Author 797: Sanghyun Park
+Erdos number: 2
+PageRank: 0.354846
+
+Author 798: Kevin Keliang Zhao
+Erdos number: 2
+PageRank: 0.697347
+
+Author 799: Sotiria Tavoulari
+Erdos number: 3
+PageRank: 0.246077
+
+Author 800: Pekka Kostamaa
+Erdos number: 3
+PageRank: 0.619825
+
+Author 801: Thanh T. L. Tran
+Erdos number: 3
+PageRank: 0.256042
+
+Author 802: Xiaokui Xiao
+Erdos number: 2
+PageRank: 0.969551
+
+Author 803: Philippe Michiels
+Erdos number: 2
+PageRank: 0.770154
+
+Author 804: Bingsheng He
+Erdos number: 2
+PageRank: 1.406453
+
+Author 805: Longxing Deng
+Erdos number: 1
+PageRank: 0.343216
+
+Author 806: Paul N. Gorman
+Erdos number: 1
+PageRank: 1.064313
+
+Author 807: Joan S. Ash
+Erdos number: 1
+PageRank: 1.176844
+
+Author 808: Mary Lavelle
+Erdos number: 1
+PageRank: 0.756138
+
+Author 809: Jason A. Lyman
+Erdos number: 1
+PageRank: 0.729589
+
+Author 810: Florian M. Waas
+Erdos number: 2
+PageRank: 0.321329
+
+Author 811: Ivo Santos
+Erdos number: 1
+PageRank: 0.521160
+
+Author 812: Arie Shoshani
+Erdos number: 2
+PageRank: 0.747159
+
+Author 813: Theodore W. Leung
+Erdos number: 2
+PageRank: 0.379815
+
+Author 814: Scott L. Vandenberg
+Erdos number: 2
+PageRank: 0.403610
+
+Author 815: Cristian Estan
+Erdos number: 2
+PageRank: 0.867437
+
+Author 816: Yang Zhang
+Erdos number: 2
+PageRank: 0.746948
+
+Author 817: Hari Balakrishnan
+Erdos number: 2
+PageRank: 3.139671
+
+Author 818: Susan Malaika
+Erdos number: 2
+PageRank: 0.374937
+
+Author 819: Takeshi Fukuda
+Erdos number: 3
+PageRank: 0.266501
+
+Author 820: Ming Xiong
+Erdos number: 2
+PageRank: 0.828069
+
+Author 821: Leonid Libkin
+Erdos number: 2
+PageRank: 2.432586
+
+Author 822: Antonis Palaios
+Erdos number: 3
+PageRank: 0.172577
+
+Author 823: Yinghui Wu
+Erdos number: 3
+PageRank: 1.168916
+
+Author 824: Xin Wang
+Erdos number: 2
+PageRank: 0.903234
+
+Author 825: Robert Hutchison
+Erdos number: 2
+PageRank: 0.275168
+
+Author 826: Robert Mann
+Erdos number: 2
+PageRank: 0.275168
+
+Author 827: Changbin Liu
+Erdos number: 1
+PageRank: 1.110335
+
+Author 828: Bart McManus
+Erdos number: 1
+PageRank: 0.212026
+
+Author 829: Grigory Yaroslavtsev
+Erdos number: 3
+PageRank: 0.231560
+
+Author 830: Nuwee Wiwatwattana
+Erdos number: 2
+PageRank: 0.534280
+
+Author 831: William J. McKenna
+Erdos number: 1
+PageRank: 0.411872
+
+Author 832: Luigi Pontieri
+Erdos number: 3
+PageRank: 0.953344
+
+Author 833: Tyson Condie
+Erdos number: 2
+PageRank: 1.175921
+
+Author 834: Ching-Tien Ho
+Erdos number: 2
+PageRank: 0.346868
+
+Author 835: Quanzhong Li
+Erdos number: 3
+PageRank: 0.585405
+
+Author 836: David Rozenshtein
+Erdos number: 1
+PageRank: 0.567241
+
+Author 837: Evan P. C. Jones
+Erdos number: 2
+PageRank: 0.547358
+
+Author 838: Xin Zhou
+Erdos number: 2
+PageRank: 0.566565
+
+Author 839: Landon Detwiler
+Erdos number: 2
+PageRank: 0.676211
+
+Author 840: Peter Tarczy-Hornoch
+Erdos number: 2
+PageRank: 0.723418
+
+Author 841: Terence Critchlow
+Erdos number: 2
+PageRank: 0.838382
+
+Author 842: Prodromos Malakasiotis
+Erdos number: 3
+PageRank: 0.172577
+
+Author 843: Steven P. Callahan
+Erdos number: 2
+PageRank: 1.551377
+
+Author 844: Emanuele Santos
+Erdos number: 2
+PageRank: 1.719627
+
+Author 845: Carlos Eduardo Scheidegger
+Erdos number: 2
+PageRank: 1.793265
+
+Author 846: Huy T. Vo
+Erdos number: 2
+PageRank: 1.551062
+
+Author 847: Erik Vee
+Erdos number: 2
+PageRank: 0.859248
+
+Author 848: Yun Mao
+Erdos number: 2
+PageRank: 1.269464
+
+Author 849: Neal E. Young
+Erdos number: 3
+PageRank: 0.326321
+
+Author 850: Deepak Agarwal
+Erdos number: 2
+PageRank: 0.539766
+
+Author 851: Alban Galland
+Erdos number: 2
+PageRank: 0.479631
+
+Author 852: Erwin Leonardi
+Erdos number: 3
+PageRank: 0.554858
+
+Author 853: Jing Qin
+Erdos number: 2
+PageRank: 0.203517
+
+Author 854: Kristi Morton
+Erdos number: 2
+PageRank: 0.424340
+
+Author 855: Shanshan Ying
+Erdos number: 2
+PageRank: 0.214366
+
+Author 856: Ravishankar Ramamurthy
+Erdos number: 1
+PageRank: 0.921590
+
+Author 857: Petros Maniatis
+Erdos number: 2
+PageRank: 1.014295
+
+Author 858: Peter J. Stuckey
+Erdos number: 2
+PageRank: 0.536754
+
+Author 859: Shaorong Liu
+Erdos number: 2
+PageRank: 0.177200
+
+Author 860: Calvin Lin
+Erdos number: 3
+PageRank: 0.541576
+
+Author 861: Rainer Himmerader
+Erdos number: 3
+PageRank: 0.588915
+
+Author 862: Georg Lausen
+Erdos number: 2
+PageRank: 1.135924
+
+Author 863: Christian Schlepphorst
+Erdos number: 3
+PageRank: 0.470395
+
+Author 864: Jianjun Chen 0001
+Erdos number: 1
+PageRank: 0.891065
+
+Author 865: Ilya Zaslavsky
+Erdos number: 3
+PageRank: 0.901976
+
+Author 866: Hiroshi Horii
+Erdos number: 3
+PageRank: 0.229123
+
+Author 867: Martin Hirzel
+Erdos number: 3
+PageRank: 0.575132
+
+Author 868: Fei Wang
+Erdos number: 2
+PageRank: 0.575224
+
+Author 869: Srikanta Tirthapura
+Erdos number: 3
+PageRank: 0.574243
+
+Author 870: Girish P. Chandranmenon
+Erdos number: 3
+PageRank: 0.439773
+
+Author 871: Mahesh Jayaram
+Erdos number: 3
+PageRank: 0.260113
+
+Author 872: Marcel Waldvogel
+Erdos number: 3
+PageRank: 0.892831
+
+Author 873: Jonathan S. Turner
+Erdos number: 3
+PageRank: 0.979393
+
+Author 874: Bernhard Plattner
+Erdos number: 3
+PageRank: 0.724328
+
+Author 875: Anduo Wang
+Erdos number: 2
+PageRank: 1.227167
+
+Author 876: Guru M. Parulkar
+Erdos number: 2
+PageRank: 1.168309
+
+Author 877: David Maziares
+Erdos number: 2
+PageRank: 1.349353
+
+Author 878: Kathryn S. McKinley
+Erdos number: 2
+PageRank: 0.917207
+
+Author 879: Dean M. Tullsen
+Erdos number: 3
+PageRank: 1.041143
+
+Author 880: Priyank Ramesh Warkhede
+Erdos number: 3
+PageRank: 0.647212
+
+Author 881: Jeongkeun Lee
+Erdos number: 3
+PageRank: 0.683313
+
+Author 882: Puneet Sharma
+Erdos number: 3
+PageRank: 1.518096
+
+Author 883: David Scott Warren
+Erdos number: 1
+PageRank: 0.711181
+
+Author 884: Harrick M. Vin
+Erdos number: 2
+PageRank: 0.984824
+
+Author 885: Rahul Kelkar
+Erdos number: 3
+PageRank: 0.255224
+
+Author 886: Auralie Bertaux
+Erdos number: 3
+PageRank: 0.328129
+
+Author 887: Alexandre Termier
+Erdos number: 3
+PageRank: 0.853747
+
+Author 888: Shivkumar Kalyanaraman
+Erdos number: 3
+PageRank: 2.063392
+
+Author 889: Raj Jain
+Erdos number: 2
+PageRank: 1.166416
+
+Author 890: Joel S. Emer
+Erdos number: 3
+PageRank: 0.440158
+
+Author 891: Stephen Poole
+Erdos number: 3
+PageRank: 0.503394
+
+Author 892: Robert Morris
+Erdos number: 2
+PageRank: 1.700926
+
+Author 893: Nick McKeown
+Erdos number: 3
+PageRank: 1.760756
+
+Author 894: Atsushi Igarashi
+Erdos number: 3
+PageRank: 0.590356
+
+Author 895: Gary T. Leavens
+Erdos number: 3
+PageRank: 1.057974
+
+Author 896: Jianxun Liu
+Erdos number: 3
+PageRank: 2.023004
+
+Author 897: Mingdong Tang
+Erdos number: 3
+PageRank: 1.600060
+
+Author 898: Yiping Wen
+Erdos number: 3
+PageRank: 0.588959
+
+Author 899: Philip Brighten Godfrey
+Erdos number: 3
+PageRank: 0.256298
+
+Author 900: Jayaram Mudigonda
+Erdos number: 3
+PageRank: 0.769937
+
+Author 901: Timothy Wood
+Erdos number: 3
+PageRank: 1.533193
+
+Author 902: Jinho Hwang
+Erdos number: 3
+PageRank: 0.626580
+
+Author 903: Mihai Budiu
+Erdos number: 3
+PageRank: 0.532825
+
+Author 904: Yuan Yu
+Erdos number: 3
+PageRank: 0.557405
+
+Author 905: Michael Isard
+Erdos number: 3
+PageRank: 0.717358
+
+Author 906: Dionysios Logothetis
+Erdos number: 2
+PageRank: 1.358082
+
+Author 907: Chris Trezzo
+Erdos number: 3
+PageRank: 0.415289
+
+Author 908: Kevin C. Webb
+Erdos number: 3
+PageRank: 0.639470
+
+Author 909: Kenneth Yocum
+Erdos number: 3
+PageRank: 0.788688
+
+Author 910: Kadangode K. Ramakrishnan
+Erdos number: 3
+PageRank: 0.611868
+
+Author 911: Arun Venkataramani
+Erdos number: 3
+PageRank: 0.850487
+
+Author 912: Yoshio Turner
+Erdos number: 3
+PageRank: 1.121021
+
+Author 913: Sujata Banerjee
+Erdos number: 2
+PageRank: 1.578371
+
+Author 914: Bryan Stephenson
+Erdos number: 3
+PageRank: 0.359986
+
+Author 915: Joel R. Stiles
+Erdos number: 3
+PageRank: 0.841780
+
+Author 916: Thomas M. Bartol
+Erdos number: 3
+PageRank: 1.184101
+
+Author 917: Terrence J. Sejnowski
+Erdos number: 3
+PageRank: 1.069022
+
+Author 918: Viktor K. Prasanna
+Erdos number: 3
+PageRank: 0.724529
+
+Author 919: Rebecca Weber
+Erdos number: 3
+PageRank: 0.620761
+
+Author 920: Benjamin C. Pierce
+Erdos number: 2
+PageRank: 3.180298
+
+Author 921: Jennifer Rexford
+Erdos number: 2
+PageRank: 2.468771
+
+Author 922: Nate Foster
+Erdos number: 3
+PageRank: 0.745927
+
+Author 923: Lixia Zhang 0001
+Erdos number: 2
+PageRank: 0.607794
+
+Author 924: Priya Mahadevan
+Erdos number: 3
+PageRank: 1.001262
+
+Author 925: Michael Walfish
+Erdos number: 2
+PageRank: 0.953671
+
+Author 926: John V. Guttag
+Erdos number: 3
+PageRank: 0.958046
+
+Author 927: Prithwish Basu
+Erdos number: 2
+PageRank: 0.745544
+
+Author 928: Martin Izzard
+Erdos number: 3
+PageRank: 0.649246
+
+Author 929: Fernando A. Mujica
+Erdos number: 3
+PageRank: 0.286660
+
+Author 930: Hui Zhang 0001
+Erdos number: 3
+PageRank: 0.770037
+
+Author 931: Jose Renato Santos
+Erdos number: 3
+PageRank: 0.711563
+
+Author 932: M. Frans Kaashoek
+Erdos number: 2
+PageRank: 2.096931
+
+Author 933: Radia J. Perlman
+Erdos number: 3
+PageRank: 0.260113
+
+Author 934: Zubin Dittia
+Erdos number: 3
+PageRank: 0.375768
+
+Author 935: Jennifer Yates
+Erdos number: 2
+PageRank: 1.122991
+
+Author 936: Scott Whyte
+Erdos number: 3
+PageRank: 0.311271
+
+Author 937: Flavio Bonomi
+Erdos number: 3
+PageRank: 0.520585
+
+Author 938: Sushil Singh
+Erdos number: 3
+PageRank: 0.472799
+
+Author 939: Sean C. Rhea
+Erdos number: 2
+PageRank: 0.580922
+
+Author 940: Joon-Myung Kang
+Erdos number: 3
+PageRank: 0.257323
+
+Author 941: J. Andrew Fingerhut
+Erdos number: 3
+PageRank: 0.329664
+
+Author 942: Diwaker Gupta
+Erdos number: 3
+PageRank: 0.936342
+
+Author 943: Henry Yang
+Erdos number: 3
+PageRank: 0.326384
+
+Author 944: Dan Rubenstein
+Erdos number: 3
+PageRank: 0.436481
+
+Author 945: F.-C. Zheng
+Erdos number: 3
+PageRank: 0.186704
+
+Author 946: Chung-Kuan Cheng
+Erdos number: 3
+PageRank: 0.246142
+
+Author 947: Vandana Prabhu
+Erdos number: 3
+PageRank: 0.475510
+
+Author 948: Antanio M. Baptista
+Erdos number: 1
+PageRank: 0.645059
+
+Author 949: Greg Morrisett
+Erdos number: 3
+PageRank: 0.726355
+
+Author 950: Anne Rogers
+Erdos number: 3
+PageRank: 0.970274
+
+Author 951: Keiko Nomura
+Erdos number: 3
+PageRank: 0.430676
+
+Author 952: Tamara Grimmett
+Erdos number: 3
+PageRank: 0.340074
+
+Author 953: William R. Hersh
+Erdos number: 2
+PageRank: 1.010839
+
+Author 954: Gabor Karsai
+Erdos number: 3
+PageRank: 0.439859
+
+Author 955: Marjan Mernik
+Erdos number: 3
+PageRank: 0.479138
+
+Author 956: Juha-Pekka Tolvanen
+Erdos number: 3
+PageRank: 0.412396
+
+Author 957: Stephen N. Freund
+Erdos number: 3
+PageRank: 0.848632
+
+Author 958: Atsushi Ohori
+Erdos number: 2
+PageRank: 0.475023
+
+Author 959: Allen Otis
+Erdos number: 1
+PageRank: 0.801619
+
+Author 960: Alan Purdy
+Erdos number: 1
+PageRank: 0.575603
+
+Author 961: Toby Bloom
+Erdos number: 2
+PageRank: 0.315364
+
+Author 962: Jeannette M. Wing
+Erdos number: 2
+PageRank: 0.411346
+
+Author 963: Allen Wirfs-Brock
+Erdos number: 1
+PageRank: 0.173412
+
+Author 964: Lougie Anderson
+Erdos number: 1
+PageRank: 0.294898
+
+Author 965: D. Jason Penney
+Erdos number: 1
+PageRank: 0.476938
+
+Author 966: Michael Greenberg
+Erdos number: 2
+PageRank: 1.223982
+
+Author 967: Aleks Bromfield
+Erdos number: 3
+PageRank: 0.237583
+
+Author 968: Doug Lea
+Erdos number: 3
+PageRank: 0.685042
+
+Author 969: Venkat N. Krovi
+Erdos number: 3
+PageRank: 0.182026
+
+Author 970: Bo Han
+Erdos number: 3
+PageRank: 0.520849
+
+Author 971: aric Gaussier
+Erdos number: 3
+PageRank: 0.320741
+
+Author 972: Antonio Nicolosi
+Erdos number: 2
+PageRank: 0.629743
+
+Author 973: Paris C. Kanellakis
+Erdos number: 2
+PageRank: 1.081387
+
+Author 974: Grigorios Chrysos
+Erdos number: 3
+PageRank: 0.845579
+
+Author 975: Apostolos Dollas
+Erdos number: 3
+PageRank: 0.945747
+
+Author 976: Josa Maraa Carazo
+Erdos number: 3
+PageRank: 0.236106
+
+Author 977: Chun-hung Li
+Erdos number: 3
+PageRank: 0.443964
+
+Author 978: Dimitris Tombros
+Erdos number: 2
+PageRank: 0.705251
+
+Author 979: Gerard Salton
+Erdos number: 1
+PageRank: 0.333435
+
+Author 980: Kai Lin
+Erdos number: 2
+PageRank: 0.511034
+
+Author 981: Roel Vercammen
+Erdos number: 2
+PageRank: 0.677056
+
+Author 982: Dmitriy Zheleznyakov
+Erdos number: 2
+PageRank: 0.460582
+
+Author 983: Liying Sui
+Erdos number: 2
+PageRank: 0.708018
+
+Author 984: Thomas Zeume
+Erdos number: 3
+PageRank: 0.359962
+
+Author 985: Cristina Sirangelo
+Erdos number: 3
+PageRank: 0.490128
+
+Author 986: Anca Muscholl
+Erdos number: 2
+PageRank: 0.710104
+
+Author 987: Tony Tan
+Erdos number: 3
+PageRank: 0.385063
+
+Author 988: Claire David
+Erdos number: 3
+PageRank: 0.608670
+
+Author 989: Jin Li 0003
+Erdos number: 1
+PageRank: 0.901714
+
+Author 990: Vassilis Papadimos
+Erdos number: 1
+PageRank: 0.892416
+
+Author 991: Natraj Arni
+Erdos number: 2
+PageRank: 0.305242
+
+Author 992: Henrik Bjarklund
+Erdos number: 3
+PageRank: 0.570441
+
+Author 993: Joscha Kulbatzki
+Erdos number: 3
+PageRank: 0.271699
+
+Author 994: Ernest Teniente
+Erdos number: 2
+PageRank: 0.413498
+
+Author 995: Angela L. Chiu
+Erdos number: 3
+PageRank: 0.746274
+
+Author 996: Robert D. Doverspike
+Erdos number: 3
+PageRank: 2.054394
+
+Author 997: Robert Bruce Findler
+Erdos number: 3
+PageRank: 0.805711
+
+Author 998: Stephen J. Fink
+Erdos number: 3
+PageRank: 1.650174
+
+Author 999: Barbara M. Chapman
+Erdos number: 2
+PageRank: 0.689807
+
+Author 1000: Robert A. Greenes
+Erdos number: 2
+PageRank: 4.183439
+
+Author 1001: Denis Tharien
+Erdos number: 3
+PageRank: 0.951041
+
+Author 1002: Furio Honsell
+Erdos number: 3
+PageRank: 0.396248
+
+Author 1003: Judith Bayard Cushing
+Erdos number: 1
+PageRank: 1.332012
+
+Author 1004: Meenakshi Rao
+Erdos number: 1
+PageRank: 0.512698
+
+Author 1005: Don Abel
+Erdos number: 1
+PageRank: 0.350005
+
+Author 1006: David Feller
+Erdos number: 1
+PageRank: 0.512698
+
+Author 1007: D. Michael DeVaney
+Erdos number: 1
+PageRank: 0.512698
+
+Author 1008: Chad Berkley
+Erdos number: 2
+PageRank: 0.846788
+
+Author 1009: Efrat Jaeger
+Erdos number: 3
+PageRank: 0.672177
+
+Author 1010: Matthew B. Jones
+Erdos number: 2
+PageRank: 1.549833
+
+Author 1011: Steve Mock
+Erdos number: 3
+PageRank: 0.258048
+
+Author 1012: Jeffrey S. Grethe
+Erdos number: 3
+PageRank: 0.917593
+
+Author 1013: Hartmut Liefke
+Erdos number: 2
+PageRank: 0.330423
+
+Author 1014: Andrew J. Connolly
+Erdos number: 2
+PageRank: 0.295740
+
+Author 1015: V. M. Megler
+Erdos number: 1
+PageRank: 0.487293
+
+Author 1016: Alex Jaramillo
+Erdos number: 1
+PageRank: 0.352923
+
+Author 1017: Charles Seaton
+Erdos number: 1
+PageRank: 0.352923
+
+Author 1018: Paul J. Turner
+Erdos number: 1
+PageRank: 0.406469
+
+Author 1019: James Frew
+Erdos number: 2
+PageRank: 1.007717
+
+Author 1020: Peter Slaughter
+Erdos number: 2
+PageRank: 0.877286
+
+Author 1021: Bernd Hamann
+Erdos number: 3
+PageRank: 0.169130
+
+Author 1022: Wei Tan
+Erdos number: 3
+PageRank: 1.005397
+
+Author 1023: Mark Schildhauer
+Erdos number: 2
+PageRank: 1.028891
+
+Author 1024: Jing Tao
+Erdos number: 2
+PageRank: 0.558155
+
+Author 1025: Pierre Mouallem
+Erdos number: 2
+PageRank: 0.564815
+
+Author 1026: Mladen A. Vouk
+Erdos number: 2
+PageRank: 0.855281
+
+Author 1027: Michael Hogarth
+Erdos number: 3
+PageRank: 0.710755
+
+Author 1028: Samantha Romanello
+Erdos number: 2
+PageRank: 0.498894
+
+Author 1029: James F. Brinkley
+Erdos number: 2
+PageRank: 1.358478
+
+Author 1030: Heribert Vollmer
+Erdos number: 3
+PageRank: 1.187308
+
+Author 1031: Klaus W. Wagner
+Erdos number: 3
+PageRank: 0.665678
+
+Author 1032: Prasang Upadhyaya
+Erdos number: 2
+PageRank: 0.692198
+
+Author 1033: Harry G. Mairson
+Erdos number: 1
+PageRank: 0.501565
+
+Author 1034: Howard Straubing
+Erdos number: 3
+PageRank: 0.609426
+
+Author 1035: William Kwok-Wai Cheung
+Erdos number: 3
+PageRank: 0.488923
+
+Author 1036: Jiming Liu
+Erdos number: 3
+PageRank: 0.615116
+
+Author 1037: Eric Landis
+Erdos number: 1
+PageRank: 1.098670
+
+Author 1038: Lynn Burstan
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1039: Steve Anderson
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1040: Mellisa McEwen
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1041: Bee Bornheimer
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1042: Harry Kreisler
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1043: Brian Schottlaender
+Erdos number: 3
+PageRank: 0.696939
+
+Author 1044: Luc DeClerck
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1045: Brad Westbrook
+Erdos number: 3
+PageRank: 0.682779
+
+Author 1046: Arwen Hutt
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1047: Ardys Kozbial
+Erdos number: 3
+PageRank: 0.682779
+
+Author 1048: Chris Frymann
+Erdos number: 3
+PageRank: 0.648367
+
+Author 1049: Vivian Chu
+Erdos number: 2
+PageRank: 1.028545
+
+Author 1050: Keith Pezzoli
+Erdos number: 3
+PageRank: 0.272533
+
+Author 1051: Balbinder Banga
+Erdos number: 1
+PageRank: 0.669971
+
+Author 1052: Fred Phillips
+Erdos number: 1
+PageRank: 1.022346
+
+Author 1053: Daniel Behlings
+Erdos number: 1
+PageRank: 0.522836
+
+Author 1054: Patty Toccalino
+Erdos number: 1
+PageRank: 0.628409
+
+Author 1055: Nicole Steckler
+Erdos number: 1
+PageRank: 0.837591
+
+Author 1056: Lacey Baldwin
+Erdos number: 1
+PageRank: 0.522836
+
+Author 1057: Fred Martin
+Erdos number: 1
+PageRank: 0.484016
+
+Author 1058: Rupa Tummala
+Erdos number: 1
+PageRank: 0.593053
+
+Author 1059: Julia Norman
+Erdos number: 1
+PageRank: 0.697363
+
+Author 1060: Kirsten Zilman
+Erdos number: 1
+PageRank: 0.593053
+
+Author 1061: David Drake
+Erdos number: 1
+PageRank: 0.593053
+
+Author 1062: Craig Palmer
+Erdos number: 1
+PageRank: 0.593053
+
+Author 1063: Ashley Burt
+Erdos number: 1
+PageRank: 0.593053
+
+Author 1064: Ted Keeley
+Erdos number: 1
+PageRank: 0.269467
+
+Author 1065: Peter Joftis
+Erdos number: 3
+PageRank: 0.249137
+
+Author 1066: Aaron Crosland
+Erdos number: 1
+PageRank: 0.269467
+
+Author 1067: Joshua Tran
+Erdos number: 3
+PageRank: 0.452815
+
+Author 1068: Ping Li
+Erdos number: 2
+PageRank: 0.387703
+
+Author 1069: Shahan Khatchadourian
+Erdos number: 3
+PageRank: 0.312183
+
+Author 1070: Frederick Smith
+Erdos number: 3
+PageRank: 0.392621
+
+Author 1071: James R. Larus
+Erdos number: 3
+PageRank: 0.959111
+
+Author 1072: Hitomi Ohkawa
+Erdos number: 1
+PageRank: 0.366954
+
+Author 1073: Sheryl Shulman
+Erdos number: 1
+PageRank: 0.251359
+
+Author 1074: Richard B. Kieburtz
+Erdos number: 2
+PageRank: 0.892424
+
+Author 1075: Jargen P. Schulze
+Erdos number: 3
+PageRank: 0.377996
+
+Author 1076: Xinxin Zhu
+Erdos number: 3
+PageRank: 0.487745
+
+Author 1077: George Hripcsak
+Erdos number: 3
+PageRank: 0.900737
+
+Author 1078: Carl A. Gunter
+Erdos number: 2
+PageRank: 1.104674
+
+Author 1079: Yang Zhao
+Erdos number: 3
+PageRank: 0.620906
+
+Author 1080: Shamim A. Naqvi
+Erdos number: 2
+PageRank: 0.409214
+
+Author 1081: Vijaynarayanan Subramanian
+Erdos number: 3
+PageRank: 0.396381
+
+Author 1082: Stefania Montani
+Erdos number: 3
+PageRank: 0.809662
+
+Author 1083: Paolo Terenziani
+Erdos number: 2
+PageRank: 1.045890
+
+Author 1084: Mauro Torchio
+Erdos number: 2
+PageRank: 0.553802
+
+Author 1085: Monica Marcus
+Erdos number: 2
+PageRank: 0.522880
+
+Author 1086: Buqing Cao
+Erdos number: 3
+PageRank: 0.896525
+
+Author 1087: Deborah F. Swayne
+Erdos number: 3
+PageRank: 0.561735
+
+Author 1088: Robbert van Renesse
+Erdos number: 2
+PageRank: 0.639856
+
+Author 1089: Hakim Weatherspoon
+Erdos number: 2
+PageRank: 0.677159
+
+Author 1090: Christopher S. Yoo
+Erdos number: 2
+PageRank: 0.497035
+
+Author 1091: Ian M. Leslie
+Erdos number: 3
+PageRank: 0.220903
+
+Author 1092: J. Nathan Foster
+Erdos number: 2
+PageRank: 1.861741
+
+Author 1093: Peter Sewell
+Erdos number: 3
+PageRank: 0.534904
+
+Author 1094: Dimitrios Vytiniotis
+Erdos number: 3
+PageRank: 0.964762
+
+Author 1095: Geoffrey Washburn
+Erdos number: 3
+PageRank: 0.735473
+
+Author 1096: Stephanie Weirich
+Erdos number: 2
+PageRank: 1.653265
+
+Author 1097: Steve Zdancewic
+Erdos number: 3
+PageRank: 0.933517
+
+Author 1098: G. Octo Barnett
+Erdos number: 3
+PageRank: 0.756040
+
+Author 1099: Mike Fisk
+Erdos number: 3
+PageRank: 0.418286
+
+Author 1100: Wu-chi Feng
+Erdos number: 1
+PageRank: 0.571281
+
+Author 1101: Vinay A. Vaishampayan
+Erdos number: 2
+PageRank: 1.001842
+
+Author 1102: Tae Won Cho
+Erdos number: 3
+PageRank: 0.546468
+
+Author 1103: Charles R. Kalmanek
+Erdos number: 3
+PageRank: 1.295343
+
+Author 1104: Chris Chase
+Erdos number: 3
+PageRank: 0.471286
+
+Author 1105: Andrea Basso
+Erdos number: 3
+PageRank: 0.467425
+
+Author 1106: Kamalika Chaudhuri
+Erdos number: 3
+PageRank: 0.668981
+
+Author 1107: Franklyn A. Turbak
+Erdos number: 2
+PageRank: 0.712932
+
+Author 1108: Robert Harper
+Erdos number: 2
+PageRank: 1.328303
+
+Author 1109: Norman Ramsey
+Erdos number: 2
+PageRank: 0.445256
+
+Author 1110: Paul Govereau
+Erdos number: 3
+PageRank: 0.368834
+
+Author 1111: John Hughes
+Erdos number: 3
+PageRank: 1.032581
+
+Author 1112: Jonathan T. Moore
+Erdos number: 3
+PageRank: 0.526315
+
+Author 1113: Peter Thiemann
+Erdos number: 2
+PageRank: 0.600249
+
+Author 1114: Alexandre Pilkiewicz
+Erdos number: 3
+PageRank: 0.316694
+
+Author 1115: Paul Kube
+Erdos number: 2
+PageRank: 1.014264
+
+Author 1116: Martin Wehr
+Erdos number: 3
+PageRank: 0.196593
+
+Author 1117: Christian Mossin
+Erdos number: 3
+PageRank: 0.196593
+
+Author 1118: R. J. M. Hughes
+Erdos number: 3
+PageRank: 0.196593
+
+Author 1119: Jon G. Riecke
+Erdos number: 3
+PageRank: 0.643453
+
+Author 1120: Yogesh L. Simmhan
+Erdos number: 2
+PageRank: 1.001610
+
+Author 1121: David Vieglais
+Erdos number: 2
+PageRank: 0.468813
+
+Author 1122: Pankaj Chopra
+Erdos number: 2
+PageRank: 0.944524
+
+Author 1123: Vidyadhar Phalke
+Erdos number: 3
+PageRank: 0.400775
+
+Author 1124: Ethan Eade
+Erdos number: 3
+PageRank: 0.294856
+
+Author 1125: Julius Degesys
+Erdos number: 3
+PageRank: 0.321286
+
+Author 1126: David Becker
+Erdos number: 3
+PageRank: 0.830747
+
+Author 1127: Stuart Reges
+Erdos number: 3
+PageRank: 0.841066
+
+Author 1128: David A. Holland
+Erdos number: 2
+PageRank: 0.939462
+
+Author 1129: Jefferson Ng
+Erdos number: 3
+PageRank: 0.390347
+
+Author 1130: Richard E. Pattis
+Erdos number: 3
+PageRank: 0.468226
+
+Author 1131: Ramesh Subrahmanyam
+Erdos number: 3
+PageRank: 0.402148
+
+Author 1132: Albert R. Meyer
+Erdos number: 3
+PageRank: 0.636438
+
+Author 1133: Chirag Shah
+Erdos number: 3
+PageRank: 0.315511
+
+Author 1134: Vu H. Tran
+Erdos number: 1
+PageRank: 0.264009
+
+Author 1135: Michael Goesele
+Erdos number: 3
+PageRank: 0.396350
+
+Author 1136: Fernando Pereira
+Erdos number: 2
+PageRank: 0.551956
+
+Author 1137: Ioana Roxana Stanoi
+Erdos number: 2
+PageRank: 0.648115
+
+Author 1138: Sharon C. Salveter
+Erdos number: 1
+PageRank: 0.456742
+
+Author 1139: Eric Verbeek
+Erdos number: 3
+PageRank: 0.909502
+
+Author 1140: Moe Thandar Wynn
+Erdos number: 3
+PageRank: 1.020724
+
+Author 1141: Jorge Munoz-Gama
+Erdos number: 3
+PageRank: 0.751257
+
+Author 1142: Emmanuel Waller
+Erdos number: 2
+PageRank: 0.659953
+
+Author 1143: Philippe Brache
+Erdos number: 3
+PageRank: 0.274691
+
+Author 1144: Thomas Ralleke
+Erdos number: 2
+PageRank: 0.574716
+
+Author 1145: Ario Santoso
+Erdos number: 3
+PageRank: 0.425222
+
+Author 1146: Steve Munroe
+Erdos number: 2
+PageRank: 1.047576
+
+Author 1147: Akmal A. Younis
+Erdos number: 3
+PageRank: 0.218006
+
+Author 1148: Paul Messina
+Erdos number: 1
+PageRank: 0.611124
+
+Author 1149: Paul H. J. Kelly
+Erdos number: 3
+PageRank: 0.840928
+
+Author 1150: Sergei Gorlatch
+Erdos number: 3
+PageRank: 0.648194
+
+Author 1151: Vladimir Getov
+Erdos number: 3
+PageRank: 0.538244
+
+Author 1152: Brian van Straalen
+Erdos number: 3
+PageRank: 0.574931
+
+Author 1153: Phillip Colella
+Erdos number: 3
+PageRank: 0.650778
+
+Author 1154: Gengzhong Feng
+Erdos number: 3
+PageRank: 0.328665
+
+Author 1155: Wenqiang Dai
+Erdos number: 3
+PageRank: 0.328665
+
+Author 1156: Stavros Vassos
+Erdos number: 3
+PageRank: 0.337884
+
+Author 1157: Julien Leblay
+Erdos number: 3
+PageRank: 0.543925
+
+Author 1158: Stamatis Zampetakis
+Erdos number: 3
+PageRank: 0.433404
+
+Author 1159: Delia Kesner
+Erdos number: 3
+PageRank: 0.500189
+
+Author 1160: Laurence Puel
+Erdos number: 3
+PageRank: 0.500189
+
+Author 1161: Thierry Coquand
+Erdos number: 3
+PageRank: 0.424262
+
+Author 1162: Christiane Kamdem Kengne
+Erdos number: 3
+PageRank: 0.578551
+
+Author 1163: Noha Ibrahim
+Erdos number: 3
+PageRank: 0.578551
+
+Author 1164: Michael Agun
+Erdos number: 2
+PageRank: 0.294217
+
+Author 1165: Cadric Miachon
+Erdos number: 3
+PageRank: 0.239681
+
+Author 1166: Marvin McNett
+Erdos number: 3
+PageRank: 0.516891
+
+Author 1167: Alex Pentland
+Erdos number: 3
+PageRank: 0.495899
+
+Author 1168: Stuart M. Shieber
+Erdos number: 3
+PageRank: 0.311398
+
+Author 1169: Rishiyur S. Nikhil
+Erdos number: 2
+PageRank: 0.814482
+
+Author 1170: Julian A. Padget
+Erdos number: 3
+PageRank: 0.260859
+
+Author 1171: Guangzhi Li
+Erdos number: 3
+PageRank: 1.642041
+
+Author 1172: Uresh Vahalia
+Erdos number: 3
+PageRank: 0.839581
+
+Author 1173: Cary G. Gray
+Erdos number: 3
+PageRank: 0.839581
+
+Author 1174: Dennis Ting
+Erdos number: 3
+PageRank: 0.839581
+
+Author 1175: Ashish Chawla
+Erdos number: 3
+PageRank: 0.416790
+
+Author 1176: Benjamin Reed
+Erdos number: 3
+PageRank: 0.587889
+
+Author 1177: Aydan R. Yumerefendi
+Erdos number: 2
+PageRank: 0.543492
+
+Author 1178: William Aiello
+Erdos number: 3
+PageRank: 0.483382
+
+Author 1179: Dejan Kostic
+Erdos number: 3
+PageRank: 0.726794
+
+Author 1180: H. Howie Huang
+Erdos number: 3
+PageRank: 0.499406
+
+Author 1181: Russell Sears
+Erdos number: 1
+PageRank: 0.536888
+
+Author 1182: Xiaoming Li
+Erdos number: 3
+PageRank: 0.433548
+
+Author 1183: Claudio Martella
+Erdos number: 3
+PageRank: 0.389157
+
+Author 1184: William R. Marczak
+Erdos number: 1
+PageRank: 0.868368
+
+Author 1185: Soumyarupa De
+Erdos number: 3
+PageRank: 0.237381
+
+Author 1186: Barbara Weber
+Erdos number: 3
+PageRank: 1.242239
+
+Author 1187: Pnina Soffer
+Erdos number: 3
+PageRank: 0.807240
+
+Author 1188: Raman Chandrasekar
+Erdos number: 3
+PageRank: 0.219269
+
+Author 1189: Michael Binder
+Erdos number: 3
+PageRank: 0.691140
+
+Author 1190: Rakesh K. Sinha
+Erdos number: 3
+PageRank: 1.220842
+
+Author 1191: Ben Karel
+Erdos number: 3
+PageRank: 0.273474
+
+Author 1192: Sheng Jiang
+Erdos number: 2
+PageRank: 0.921511
+
+Author 1193: Tara Gibson
+Erdos number: 2
+PageRank: 0.927953
+
+Author 1194: Luciano A. Digiampietri
+Erdos number: 2
+PageRank: 0.837337
+
+Author 1195: Jim Myers
+Erdos number: 2
+PageRank: 1.022180
+
+Author 1196: Peter Wegner
+Erdos number: 2
+PageRank: 0.322775
+
+Author 1197: Staal A. Vinterbo
+Erdos number: 3
+PageRank: 2.953528
+
+Author 1198: Kevin Hammond
+Erdos number: 2
+PageRank: 1.033036
+
+Author 1199: Will Partain
+Erdos number: 3
+PageRank: 0.795341
+
+Author 1200: John H. Reppy
+Erdos number: 3
+PageRank: 0.670657
+
+Author 1201: Justin R. Ratner
+Erdos number: 1
+PageRank: 0.366663
+
+Author 1202: Burton J. Smith
+Erdos number: 1
+PageRank: 0.366663
+
+Author 1203: Frederica Darema
+Erdos number: 1
+PageRank: 0.401235
+
+Author 1204: Scott R. Kohn
+Erdos number: 3
+PageRank: 1.888983
+
+Author 1205: Hamish Fraser
+Erdos number: 3
+PageRank: 1.080247
+
+Author 1206: Heimar F. Marin
+Erdos number: 3
+PageRank: 0.955596
+
+Author 1207: Eduardo P. Marques
+Erdos number: 3
+PageRank: 0.955596
+
+Author 1208: Eduardo Massad
+Erdos number: 3
+PageRank: 1.085452
+
+Author 1209: Beatriz H. Rocha
+Erdos number: 3
+PageRank: 0.652108
+
+Author 1210: Roberto A. Rocha
+Erdos number: 3
+PageRank: 0.800322
+
+Author 1211: Laura M. Smeaton
+Erdos number: 3
+PageRank: 0.631596
+
+Author 1212: Peter Szolovits
+Erdos number: 3
+PageRank: 0.837777
+
+Author 1213: Winston Patrick Kuo
+Erdos number: 3
+PageRank: 0.766608
+
+Author 1214: Tor-Kristian Jenssen
+Erdos number: 3
+PageRank: 0.610737
+
+Author 1215: Samuel J. Wang
+Erdos number: 3
+PageRank: 1.013850
+
+Author 1216: Frederic S. Resnic
+Erdos number: 3
+PageRank: 1.160934
+
+Author 1217: Shawn N. Murphy
+Erdos number: 3
+PageRank: 1.259094
+
+Author 1218: Jeanne Guillemin
+Erdos number: 3
+PageRank: 0.739239
+
+Author 1219: Kathy Keefe
+Erdos number: 3
+PageRank: 0.468992
+
+Author 1220: Gregory Sharp
+Erdos number: 3
+PageRank: 0.711163
+
+Author 1221: Todd Rowland
+Erdos number: 3
+PageRank: 0.610719
+
+Author 1222: John P. Ehresman
+Erdos number: 3
+PageRank: 0.724685
+
+Author 1223: Jeannie Tam
+Erdos number: 3
+PageRank: 0.739239
+
+Author 1224: Luke Sato
+Erdos number: 3
+PageRank: 0.669383
+
+Author 1225: Mary Ann Iannacchione
+Erdos number: 3
+PageRank: 0.475822
+
+Author 1226: Patrick Crockett
+Erdos number: 3
+PageRank: 0.475822
+
+Author 1227: W. Edward Hammond
+Erdos number: 3
+PageRank: 0.475822
+
+Author 1228: Aleksander ahrn
+Erdos number: 3
+PageRank: 0.583780
+
+Author 1229: Marivan S. Abrahao
+Erdos number: 3
+PageRank: 0.320270
+
+Author 1230: Hamish S. F. Fraser
+Erdos number: 3
+PageRank: 1.118058
+
+Author 1231: Cornelius Rosse
+Erdos number: 2
+PageRank: 0.798588
+
+Author 1232: Shapur Naimi
+Erdos number: 3
+PageRank: 0.682256
+
+Author 1233: Edward H. Shortliffe
+Erdos number: 2
+PageRank: 2.377281
+
+Author 1234: David W. Bates
+Erdos number: 2
+PageRank: 1.521669
+
+Author 1235: Perry Mar
+Erdos number: 3
+PageRank: 0.395045
+
+Author 1236: Darrell N. Smith
+Erdos number: 3
+PageRank: 0.272477
+
+Author 1237: Kevin B. Johnson
+Erdos number: 3
+PageRank: 0.602155
+
+Author 1238: Rebecca Walker
+Erdos number: 3
+PageRank: 0.741753
+
+Author 1239: Seena Farzaneh
+Erdos number: 3
+PageRank: 0.637998
+
+Author 1240: Kathleen Keefe
+Erdos number: 3
+PageRank: 0.405284
+
+Author 1241: Thomas DiCesare
+Erdos number: 3
+PageRank: 0.405284
+
+Author 1242: Jonathan L. Schaffer
+Erdos number: 3
+PageRank: 0.513688
+
+Author 1243: Jason N. Doctor
+Erdos number: 3
+PageRank: 0.772558
+
+Author 1244: Daniella Meeker
+Erdos number: 3
+PageRank: 0.772558
+
+Author 1245: Davera Gabriel
+Erdos number: 3
+PageRank: 0.730265
+
+Author 1246: Stephan R. A. Deibel
+Erdos number: 3
+PageRank: 0.340481
+
+Author 1247: Dorothy Curtis
+Erdos number: 3
+PageRank: 0.798920
+
+Author 1248: Thomas O. Stair
+Erdos number: 3
+PageRank: 0.578668
+
+Author 1249: Ronilda Lacson
+Erdos number: 3
+PageRank: 0.621888
+
+Author 1250: Eduardo P. Wiechmann
+Erdos number: 3
+PageRank: 0.214468
+
+Author 1251: Yana Kadiyska
+Erdos number: 2
+PageRank: 0.444364
+
+Author 1252: Mark R. Nelson
+Erdos number: 3
+PageRank: 0.257723
+
+Author 1253: George Demiris
+Erdos number: 3
+PageRank: 0.243922
+
+Author 1254: Stephanie Feudjio Feupe
+Erdos number: 3
+PageRank: 0.600902
+
+Author 1255: Hiroshi Tanaka
+Erdos number: 3
+PageRank: 0.211101
+
+Author 1256: Alex Wong
+Erdos number: 3
+PageRank: 0.408861
+
+Author 1257: Lance Lang
+Erdos number: 3
+PageRank: 0.408861
+
+Author 1258: Allan Khoury
+Erdos number: 3
+PageRank: 0.408861
+
+Author 1259: Keith E. Campbell
+Erdos number: 2
+PageRank: 0.601426
+
+Author 1260: Chen Qiang
+Erdos number: 3
+PageRank: 0.408861
+
+Author 1261: Griffin M. Weber
+Erdos number: 3
+PageRank: 0.823138
+
+Author 1262: Heidi Sandige
+Erdos number: 3
+PageRank: 0.344527
+
+Author 1263: Andrew B. Onderdonk
+Erdos number: 3
+PageRank: 0.306463
+
+Author 1264: Harald Kittler
+Erdos number: 3
+PageRank: 0.554562
+
+Author 1265: Vincent Carey
+Erdos number: 3
+PageRank: 0.300170
+
+Author 1266: Richard Staehli
+Erdos number: 1
+PageRank: 0.447350
+
+Author 1267: Jianhua Zhu
+Erdos number: 1
+PageRank: 0.298182
+
+Author 1268: Mikal Ziane
+Erdos number: 2
+PageRank: 0.312240
+
+Author 1269: Surjatini Widjojo
+Erdos number: 2
+PageRank: 0.415178
+
+Author 1270: Dimitrios Tsonis
+Erdos number: 2
+PageRank: 0.177200
+
+Author 1271: KayLiang Ong
+Erdos number: 2
+PageRank: 0.432183
+
+Author 1272: David R. Hanson
+Erdos number: 2
+PageRank: 0.227621
+
+Author 1273: Robert Gruber
+Erdos number: 2
+PageRank: 0.450745
+
+Author 1274: John H. Weare
+Erdos number: 3
+PageRank: 0.911741
+
+Author 1275: Alan Edelman
+Erdos number: 3
+PageRank: 0.566392
+
+Author 1276: Ryoichi Kawai
+Erdos number: 3
+PageRank: 0.566392
+
+Author 1277: M. Elizabeth G. Ong
+Erdos number: 3
+PageRank: 0.566392
+
+Author 1278: Robert S. Schreiber
+Erdos number: 3
+PageRank: 0.388978
+
+Author 1279: Kang Su Gatlin
+Erdos number: 3
+PageRank: 0.474554
+
+Author 1280: Kasturi R. Varadarajan
+Erdos number: 3
+PageRank: 0.299203
+
+Author 1281: Clark Mullen
+Erdos number: 3
+PageRank: 0.189015
+
+Author 1282: Marie Jacob
+Erdos number: 2
+PageRank: 0.797548
+
+Author 1283: William C. Regli
+Erdos number: 2
+PageRank: 0.185346
+
+Author 1284: Xianmin Liu
+Erdos number: 3
+PageRank: 0.323812
+
+Author 1285: Sergio Tessaris
+Erdos number: 3
+PageRank: 0.284491
+
+Author 1286: Dave Wile
+Erdos number: 2
+PageRank: 0.323844
+
+Author 1287: Ronald Morrison
+Erdos number: 2
+PageRank: 0.426594
+
+Author 1288: Michel Raoux
+Erdos number: 1
+PageRank: 0.216135
+
+Author 1289: Bruce Schuchardt
+Erdos number: 1
+PageRank: 0.487104
+
+Author 1290: Fausto Rabitti
+Erdos number: 1
+PageRank: 0.382897
+
+Author 1291: Douglas S. Bell
+Erdos number: 3
+PageRank: 0.799021
+
+Author 1292: Cameron Marlow
+Erdos number: 3
+PageRank: 0.209010
+
+Author 1293: Y. Law
+Erdos number: 2
+PageRank: 0.235600
+
+Author 1294: Nanjangud C. Narendra
+Erdos number: 2
+PageRank: 0.207816
+
+Author 1295: Fenno (Terry) Heath
+Erdos number: 2
+PageRank: 0.400535
+
+Author 1296: Lior Limonad
+Erdos number: 2
+PageRank: 0.486551
+
+Author 1297: Dmitry Solomakhin
+Erdos number: 3
+PageRank: 0.353683
+
+Author 1298: Ivona Brandic
+Erdos number: 3
+PageRank: 0.187777
+
+Author 1299: Montserrat Estaaol
+Erdos number: 3
+PageRank: 0.259713
+
+Author 1300: James Margetson
+Erdos number: 3
+PageRank: 0.425125
+
+Author 1301: Jurgen Van Gael
+Erdos number: 3
+PageRank: 0.425125
+
+Author 1302: Jonathan Krause
+Erdos number: 3
+PageRank: 0.412537
+
+Author 1303: Shan Xu
+Erdos number: 2
+PageRank: 0.275718
+
+Author 1304: Qinyuan Ren
+Erdos number: 3
+PageRank: 0.288146
+
+Author 1305: Yannis Smaragdakis
+Erdos number: 3
+PageRank: 0.278515
+
+Author 1306: Philipp Lies
+Erdos number: 3
+PageRank: 0.389689
+
+Author 1307: Evan Welbourne
+Erdos number: 2
+PageRank: 0.416009
+
+Author 1308: Jing Su
+Erdos number: 2
+PageRank: 0.479837
+
+Author 1309: Stefan Saroiu
+Erdos number: 2
+PageRank: 0.494512
+
+Author 1310: Ashok K. Agrawala
+Erdos number: 3
+PageRank: 0.543825
+
+Author 1311: Volker Weber
+Erdos number: 3
+PageRank: 0.333717
+
+Author 1312: Szymon Torunczyk
+Erdos number: 3
+PageRank: 0.190679
+
+Author 1313: Christoph Darr
+Erdos number: 3
+PageRank: 0.202491
+
+Author 1314: Klaus Barthelmann
+Erdos number: 3
+PageRank: 0.202491
+
+Author 1315: Cormac J. Sreenan
+Erdos number: 3
+PageRank: 0.578762
+
+Author 1316: Austin Donnelly
+Erdos number: 3
+PageRank: 0.284693
+
+Author 1317: Joachim Reinert
+Erdos number: 3
+PageRank: 0.194364
+
+Author 1318: Lin Li
+Erdos number: 3
+PageRank: 0.439975
+
+Author 1319: Keun Ho Ryu
+Erdos number: 2
+PageRank: 0.286982
+
+Author 1320: Peter Schwenzer
+Erdos number: 3
+PageRank: 0.251964
+
+Author 1321: Kun Wu
+Erdos number: 3
+PageRank: 0.298078
+
+Author 1322: Holger Branding
+Erdos number: 2
+PageRank: 0.572312
+
+Author 1323: Malika Mahoui
+Erdos number: 3
+PageRank: 0.250543
+
+Author 1324: Derick Wood
+Erdos number: 3
+PageRank: 0.370415
+
+Author 1325: Peter Habermehl
+Erdos number: 3
+PageRank: 0.204958
+
+Author 1326: Jean H. Gallier
+Erdos number: 3
+PageRank: 0.219983
+
+Author 1327: Paul Benninghoff
+Erdos number: 1
+PageRank: 0.504507
+
+Author 1328: Peter Z. Revesz
+Erdos number: 2
+PageRank: 0.405150
+
+Author 1329: Jian Wen
+Erdos number: 2
+PageRank: 0.699037
+
+Author 1330: Rafael Fernandez-Moctezuma
+Erdos number: 1
+PageRank: 0.486560
+
+Author 1331: Keith Billings
+Erdos number: 1
+PageRank: 0.454517
+
+Author 1332: Yubo Fan
+Erdos number: 1
+PageRank: 0.454517
+
+Author 1333: Kavita Hatwal
+Erdos number: 1
+PageRank: 0.454517
+
+Author 1334: Hsiao-min Wu
+Erdos number: 1
+PageRank: 0.454517
+
+Author 1335: Bradley S. Fordham
+Erdos number: 2
+PageRank: 0.378947
+
+Author 1336: Yelena Yesha
+Erdos number: 2
+PageRank: 0.415201
+
+Author 1337: Jon M. Kleinberg
+Erdos number: 2
+PageRank: 0.460568
+
+Author 1338: Scott Weinstein
+Erdos number: 2
+PageRank: 0.411764
+
+Author 1339: Chee-Keng Yap
+Erdos number: 2
+PageRank: 0.469650
+
+Author 1340: Jef Wijsen
+Erdos number: 3
+PageRank: 0.284097
+
+Author 1341: Dayou Zhou
+Erdos number: 2
+PageRank: 0.479374
+
+Author 1342: Alessandro Saetti
+Erdos number: 3
+PageRank: 0.168122
+
+Author 1343: Nir Lipovetzky
+Erdos number: 3
+PageRank: 0.431792
+
+Author 1344: Hector Geffner
+Erdos number: 3
+PageRank: 0.456346
+
+Author 1345: Alan Schmitt
+Erdos number: 3
+PageRank: 1.075332
+
+Author 1346: Kevin Walsh
+Erdos number: 3
+PageRank: 0.468815
+
+Author 1347: Ying Zuo
+Erdos number: 3
+PageRank: 0.365942
+
+Author 1348: Ulrich Hamann
+Erdos number: 3
+PageRank: 0.212370
+
+Author 1349: Craig Cochran
+Erdos number: 2
+PageRank: 0.312560
+
+Author 1350: Kostas N. Oikonomou
+Erdos number: 3
+PageRank: 0.913143
+
+Author 1351: M. Martinez-Heath
+Erdos number: 3
+PageRank: 0.285765
+
+Author 1352: Val Breazu-Tannen
+Erdos number: 3
+PageRank: 0.373667
+
+Author 1353: Artem Gleyzer
+Erdos number: 2
+PageRank: 0.263405
+
+Author 1354: Philippa Gardner
+Erdos number: 2
+PageRank: 0.286071
+
+Author 1355: Peter White
+Erdos number: 3
+PageRank: 0.272852
+
+Author 1356: Michel A. Melkanoff
+Erdos number: 2
+PageRank: 0.317193
+
+Author 1357: Michael A. Harrison
+Erdos number: 2
+PageRank: 0.505421
+
+Author 1358: Anthony Lauck
+Erdos number: 3
+PageRank: 0.339093
+
+Author 1359: Colin R. Goodall
+Erdos number: 3
+PageRank: 0.364724
+
+Author 1360: Lev Vaitzblit
+Erdos number: 3
+PageRank: 0.748735
+
+Author 1361: Percy Tzelnic
+Erdos number: 3
+PageRank: 0.748735
+
+Author 1362: Steve Glaser
+Erdos number: 3
+PageRank: 0.748735
+
+Author 1363: Wayne Duso
+Erdos number: 3
+PageRank: 0.748735
+
+Author 1364: John Wroclawski
+Erdos number: 3
+PageRank: 0.260180
+
+Author 1365: George Pavlou
+Erdos number: 3
+PageRank: 0.198517
+
+Author 1366: Raman Caceres
+Erdos number: 3
+PageRank: 0.427963
+
+Author 1367: N. K. Shankaranarayanan
+Erdos number: 3
+PageRank: 0.454509
+
+Author 1368: John Huber
+Erdos number: 3
+PageRank: 0.287042
+
+Author 1369: W. Melody Moh
+Erdos number: 3
+PageRank: 0.389065
+
+Author 1370: A. Udaya Shankar
+Erdos number: 3
+PageRank: 0.714970
+
+Author 1371: Leo Razoumov
+Erdos number: 3
+PageRank: 0.384818
+
+Author 1372: Yan Qi
+Erdos number: 3
+PageRank: 0.318258
+
+Author 1373: Daniele Turi
+Erdos number: 2
+PageRank: 0.882117
+
+Author 1374: Xing Cai
+Erdos number: 3
+PageRank: 0.286193
+
+Author 1375: Tilman Kispersky
+Erdos number: 3
+PageRank: 0.311587
+
+Author 1376: Arthur Abnous
+Erdos number: 3
+PageRank: 0.475510
+
+Author 1377: Richard K. Belew
+Erdos number: 3
+PageRank: 0.404455
+
+Author 1378: Vincent Chu
+Erdos number: 2
+PageRank: 0.378805
+
+Author 1379: Kelly H. Zou
+Erdos number: 3
+PageRank: 0.273445
+
+Author 1380: Tae Sik Han
+Erdos number: 2
+PageRank: 0.267339
+
+Author 1381: Edward Ross
+Erdos number: 3
+PageRank: 0.390978
+
+Author 1382: Florent Masseglia
+Erdos number: 2
+PageRank: 0.226907
+
+Author 1383: Keith D. Swenson
+Erdos number: 3
+PageRank: 0.747660
+
+Author 1384: Zhan Xu
+Erdos number: 3
+PageRank: 0.185371
+
+Author 1385: Dongbo Zhang
+Erdos number: 3
+PageRank: 0.695589
+
+Author 1386: Yaonan Wang
+Erdos number: 3
+PageRank: 0.695589
+
+Author 1387: Luis Leopoldo Perez
+Erdos number: 3
+PageRank: 0.340423
+
+Author 1388: Zijing Tan
+Erdos number: 3
+PageRank: 0.240982
+
+Author 1389: Jordan Walke
+Erdos number: 2
+PageRank: 0.233986
+
+Author 1390: Ioana Ileana
+Erdos number: 2
+PageRank: 0.284504
+
+Author 1391: Rhonda Baldwin
+Erdos number: 3
+PageRank: 0.317789
+
+Author 1392: Bei Yu
+Erdos number: 2
+PageRank: 0.232449
+
+Author 1393: David Beech
+Erdos number: 1
+PageRank: 0.530919
+
+Author 1394: Mohammed Rupawalla
+Erdos number: 2
+PageRank: 0.177339
+
+Author 1395: Christoph Quix
+Erdos number: 2
+PageRank: 0.239714
+
+Author 1396: Like Gao
+Erdos number: 3
+PageRank: 0.236879
+
+Author 1397: Shiori Betzler
+Erdos number: 2
+PageRank: 0.421698
+
+Author 1398: Qiong Chen
+Erdos number: 2
+PageRank: 0.421698
+
+Author 1399: Ewa Jaslikowska
+Erdos number: 2
+PageRank: 0.421698
+
+Author 1400: Wai Tak Theodora Yeung
+Erdos number: 2
+PageRank: 0.421698
+
+Author 1401: Robert L. Bertini
+Erdos number: 1
+PageRank: 0.291336
+
+Author 1402: David E. Gay
+Erdos number: 2
+PageRank: 0.407426
+
+Author 1403: Lynn O. Wilson
+Erdos number: 3
+PageRank: 0.168115
+
+Author 1404: Samreen Anjum
+Erdos number: 3
+PageRank: 0.413511
+
+Author 1405: Amira Ghenai
+Erdos number: 3
+PageRank: 0.413511
+
+Author 1406: Aysha Siddique
+Erdos number: 3
+PageRank: 0.413511
+
+Author 1407: M. Higa
+Erdos number: 2
+PageRank: 0.246671
+
+Author 1408: Atsuyuki Morishima
+Erdos number: 2
+PageRank: 0.338009
+
+Author 1409: David A. Graf
+Erdos number: 2
+PageRank: 0.426132
+
+Author 1410: Katarzyna Smaga
+Erdos number: 2
+PageRank: 0.219098
+
+Author 1411: Xuan Zheng
+Erdos number: 2
+PageRank: 0.301686
+
+Author 1412: Christine Robson
+Erdos number: 2
+PageRank: 0.382408
+
+Author 1413: Edison L. Ting
+Erdos number: 2
+PageRank: 0.382408
+
+Author 1414: Sam Mardanbeigi
+Erdos number: 2
+PageRank: 0.272476
+
+Author 1415: Nipun Agarwal
+Erdos number: 2
+PageRank: 0.366489
+
+Author 1416: Viswanathan Krishnamurthy
+Erdos number: 2
+PageRank: 0.366489
+
+Author 1417: Murty Valiveti
+Erdos number: 2
+PageRank: 0.225766
+
+Author 1418: Clay Shields
+Erdos number: 2
+PageRank: 0.245886
+
+Author 1419: Georgos Siganos
+Erdos number: 3
+PageRank: 0.321415
+
+Author 1420: Rick Greer
+Erdos number: 2
+PageRank: 0.376720
+
+Author 1421: Weifeng Su
+Erdos number: 3
+PageRank: 0.230166
+
+Author 1422: Steve Parker
+Erdos number: 2
+PageRank: 0.368668
+
+Author 1423: Ellis Horowitz
+Erdos number: 2
+PageRank: 0.425566
+
+Author 1424: Hassan Aat-Kaci
+Erdos number: 1
+PageRank: 0.287181
+
+Author 1425: Stephanie J. Cammarata
+Erdos number: 1
+PageRank: 0.343675
+
+Author 1426: Peter Nordquist
+Erdos number: 1
+PageRank: 0.301533
+
+Author 1427: Mark Grossman
+Erdos number: 1
+PageRank: 0.301533
+
+Author 1428: Paul P. Maglio
+Erdos number: 2
+PageRank: 0.864965
+
+Author 1429: Melissa Cefkin
+Erdos number: 2
+PageRank: 0.702677
+
+Author 1430: Hui Zhang 0008
+Erdos number: 3
+PageRank: 0.654503
+
+Author 1431: Sheila A. Greibach
+Erdos number: 2
+PageRank: 0.441519
+
+Author 1432: Robert Epstein
+Erdos number: 2
+PageRank: 0.389276
+
+Author 1433: William C. Sasso
+Erdos number: 2
+PageRank: 0.389276
+
+Author 1434: Sigfried Treu
+Erdos number: 2
+PageRank: 0.389276
+
+Author 1435: Joseph D. Houle
+Erdos number: 3
+PageRank: 0.518581
+
+Author 1436: Rita Sadhvani
+Erdos number: 3
+PageRank: 0.518581
+
+Author 1437: Ramakrishna Karedla
+Erdos number: 3
+PageRank: 0.227626
+
+Author 1438: Alex Rousskov
+Erdos number: 3
+PageRank: 0.470840
+
+Author 1439: Valery Soloviev
+Erdos number: 3
+PageRank: 0.470840
+
+Author 1440: Xiaoqing (Frank) Liu
+Erdos number: 3
+PageRank: 0.857607
+
+Author 1441: Maja Vukovic
+Erdos number: 2
+PageRank: 0.334780
+
+Author 1442: Nathaniel Mills
+Erdos number: 2
+PageRank: 0.334780
+
+Author 1443: Mitchell Wand
+Erdos number: 3
+PageRank: 0.726814
+
+Author 1444: Jon Fairbairn
+Erdos number: 3
+PageRank: 0.745367
+
+Author 1445: Marcia A. Derr
+Erdos number: 2
+PageRank: 0.308364
+
+Author 1446: Jacques Durand
+Erdos number: 2
+PageRank: 0.308364
+
+Author 1447: Keith Thompson
+Erdos number: 2
+PageRank: 0.202498
+
+Author 1448: Christian Kirkegaard
+Erdos number: 3
+PageRank: 0.422112
+
+Author 1449: Karin Hagstedt
+Erdos number: 3
+PageRank: 0.330449
+
+Author 1450: Xin Shu
+Erdos number: 3
+PageRank: 0.383507
+
+Author 1451: Minghao Ai
+Erdos number: 3
+PageRank: 0.383507
+
+Author 1452: ZhiCheng Ma
+Erdos number: 3
+PageRank: 0.383507
+
+Author 1453: Ralf Lammel
+Erdos number: 2
+PageRank: 0.363828
+
+Author 1454: Ronald L. Mak
+Erdos number: 2
+PageRank: 0.628682
+
+Author 1455: Cheryl A. Kieliszewski
+Erdos number: 2
+PageRank: 0.680312
+
+Author 1456: Maurizio Sebastianis
+Erdos number: 3
+PageRank: 0.233047
+
+Author 1457: Michail Giakkoupis
+Erdos number: 3
+PageRank: 0.243436
+
+Author 1458: Ton Weijters
+Erdos number: 3
+PageRank: 0.822532
+
+Author 1459: Joel Ribeiro
+Erdos number: 3
+PageRank: 0.714473
+
+Author 1460: Hugo Seguel Parez
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1461: Ricardo Seguel Parez
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1462: Marcos Sepalveda
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1463: Jim Sinur
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1464: Giovanni Stilo
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1465: Casper Stoel
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1466: Chris Turner
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1467: Jan Vanthienen
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1468: George Varvaressos
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1469: Marc Verdonk
+Erdos number: 3
+PageRank: 0.741875
+
+Author 1470: Roberto Vigo
+Erdos number: 3
+PageRank: 0.698527
+
+Author 1471: Daryl Pregibon
+Erdos number: 2
+PageRank: 0.377872
+
+Author 1472: Christoph Meinel
+Erdos number: 3
+PageRank: 0.192378
+
+Author 1473: Alexander Yakhnis
+Erdos number: 3
+PageRank: 0.432263
+
+Author 1474: Surjyakanta Mohapatra
+Erdos number: 3
+PageRank: 0.430692
+
+Author 1475: Hemanth Manoharan
+Erdos number: 3
+PageRank: 0.430692
+
+Author 1476: Piyush Shah
+Erdos number: 3
+PageRank: 0.430692
+
+Author 1477: Aleksandra Smiljanic
+Erdos number: 3
+PageRank: 0.255668
+
+Author 1478: Ufuk Topcu
+Erdos number: 2
+PageRank: 0.210084
+
+Author 1479: Shabbar Tambawala
+Erdos number: 3
+PageRank: 0.219821
+
+Author 1480: Piyawadee Noi Sukaviriya
+Erdos number: 2
+PageRank: 0.467982
+
+Author 1481: Olivier Nano
+Erdos number: 1
+PageRank: 0.397367
+
+Author 1482: Sharmadha Moorthy
+Erdos number: 1
+PageRank: 0.222696
+
+Author 1483: Christian J. Stoeckert Jr.
+Erdos number: 2
+PageRank: 0.492761
+
+Author 1484: Anil Kumar
+Erdos number: 3
+PageRank: 0.377981
+
+Author 1485: Duri Schmidt
+Erdos number: 1
+PageRank: 0.316333
+
+Author 1486: Jinseung Lee
+Erdos number: 2
+PageRank: 0.589522
+
+Author 1487: Geliang Tong
+Erdos number: 2
+PageRank: 0.260593
+
+Author 1488: Oliver Ratzesberger
+Erdos number: 1
+PageRank: 0.208270
+
+Author 1489: Alexander Pagan
+Erdos number: 2
+PageRank: 0.249236
+
+Author 1490: Pierre-Yves Lalilgand
+Erdos number: 3
+PageRank: 0.348302
+
+Author 1491: Abdullatif Shikfa
+Erdos number: 3
+PageRank: 0.348302
+
+Author 1492: Antoine Arnail
+Erdos number: 3
+PageRank: 0.348302
+
+Author 1493: Sun Kim
+Erdos number: 2
+PageRank: 0.299130
+
+Author 1494: Mohammad Zulkernine
+Erdos number: 3
+PageRank: 0.181713
+
+Author 1495: Sutanu Sarkar
+Erdos number: 3
+PageRank: 0.218097
+
+Author 1496: Vera Goebel
+Erdos number: 2
+PageRank: 0.265528
+
+Author 1497: Russell Impagliazzo
+Erdos number: 3
+PageRank: 0.344739
+
+Author 1498: Iain A. Stewart
+Erdos number: 3
+PageRank: 0.202491
+
+Author 1499: Sebastiaan H. von Solms
+Erdos number: 3
+PageRank: 0.176540
+
+Author 1500: Michael Svendsen
+Erdos number: 3
+PageRank: 0.284921
+
+Author 1501: Zhenjiang Hu
+Erdos number: 2
+PageRank: 0.480117
+
+Author 1502: Andy Scharr
+Erdos number: 2
+PageRank: 0.480117
+
+Author 1503: Ravi Konuru
+Erdos number: 3
+PageRank: 0.263194
+
+Author 1504: C. Mani Krishna
+Erdos number: 3
+PageRank: 0.310833
+
+Author 1505: Thomas Roelleke
+Erdos number: 2
+PageRank: 0.360185
+
+Author 1506: Valeriu Breazu
+Erdos number: 3
+PageRank: 0.252701
+
+Author 1507: S. Gill Williamson
+Erdos number: 3
+PageRank: 0.337162
+
+Author 1508: S. G. Williamson
+Erdos number: 3
+PageRank: 0.548922
+
+Author 1509: Stephen Fink
+Erdos number: 3
+PageRank: 0.353289
+
+Author 1510: Michael E. Fisk
+Erdos number: 3
+PageRank: 0.284698
+
+Author 1511: E. Harold Williams
+Erdos number: 1
+PageRank: 0.384480
+
+Author 1512: Monty Williams
+Erdos number: 1
+PageRank: 0.384480
+
+Author 1513: Thorsten Gorchs
+Erdos number: 3
+PageRank: 0.184032
+
+Author 1514: Pu Zhou
+Erdos number: 2
+PageRank: 0.198752
+
+Author 1515: Federico Ulliana
+Erdos number: 3
+PageRank: 0.312374
+
+Author 1516: Christopher W. Rice
+Erdos number: 3
+PageRank: 0.385136
+
+Author 1517: Paul Stephens
+Erdos number: 1
+PageRank: 0.230063
+
+Author 1518: Sandro J. de Souza
+Erdos number: 3
+PageRank: 0.247263
+
+Author 1519: Mikael Berndtsson
+Erdos number: 3
+PageRank: 0.304692
+
+Author 1520: Claudia Roncancio
+Erdos number: 3
+PageRank: 0.294407
+
+Author 1521: Junho Oh
+Erdos number: 2
+PageRank: 0.240407
+
+Author 1522: Hanjun Shin
+Erdos number: 2
+PageRank: 0.637044
+
+Author 1523: Jusang Lee
+Erdos number: 2
+PageRank: 0.254651
+
+Author 1524: Seung-Mo Hong
+Erdos number: 2
+PageRank: 0.240488
+
+Author 1525: Ying Y. Y. Tao
+Erdos number: 3
+PageRank: 0.416562
+
+Author 1526: Reza Yaesoubi
+Erdos number: 3
+PageRank: 0.416562
+
+Author 1527: R. Lee Kennedy
+Erdos number: 3
+PageRank: 0.254396
+
+Author 1528: Jacobo Toran
+Erdos number: 3
+PageRank: 0.176245
+
+Author 1529: James A. Storer
+Erdos number: 1
+PageRank: 0.173412
+
+Author 1530: Pouria Pirzadeh
+Erdos number: 2
+PageRank: 0.406698
+
+Author 1531: Ricardo Scachetti Pereira
+Erdos number: 3
+PageRank: 0.313876
+
+Author 1532: Romain Vernoux
+Erdos number: 3
+PageRank: 0.172578
+
+Author 1533: Riccardo Pucella
+Erdos number: 3
+PageRank: 0.302828
+
+Author 1534: Aik-Choon Tan
+Erdos number: 2
+PageRank: 0.645360
+
+Author 1535: Andrew Heiberg
+Erdos number: 2
+PageRank: 0.434410
+
+Author 1536: Preveen Ramamoorthy
+Erdos number: 2
+PageRank: 0.541298
+
+Author 1537: Jeffrey A. Kern
+Erdos number: 2
+PageRank: 0.541298
+
+Author 1538: Lynn E. Heasley
+Erdos number: 2
+PageRank: 0.541298
+
+Author 1539: James H. Finigan
+Erdos number: 2
+PageRank: 0.541298
+
+Author 1540: Paulo Sargio Panse Silveira
+Erdos number: 3
+PageRank: 0.245639
+
+Author 1541: Joseph Seidel
+Erdos number: 2
+PageRank: 0.307875
+
+Author 1542: Dong Deng
+Erdos number: 3
+PageRank: 0.228578
+
+Author 1543: Dan Muresan
+Erdos number: 2
+PageRank: 0.342375
+
+Author 1544: Sorin Nasoi
+Erdos number: 2
+PageRank: 0.342375
+
+Author 1545: Markos Zacharioudaki
+Erdos number: 2
+PageRank: 0.342375
+
+Author 1546: Yanli Hu
+Erdos number: 3
+PageRank: 0.232305
+
+Author 1547: Remi Zajac
+Erdos number: 3
+PageRank: 0.188347
+
+Author 1548: Erick Zamora
+Erdos number: 3
+PageRank: 0.172578
+
+Author 1549: John Meehan
+Erdos number: 1
+PageRank: 0.367862
+
+Author 1550: Erik Sutherland
+Erdos number: 1
+PageRank: 0.367862
+
+Author 1551: Sharath Srinivas
+Erdos number: 3
+PageRank: 0.269636
+
+Author 1552: Stephan Grell
+Erdos number: 1
+PageRank: 0.301133
+
+Author 1553: Jeng-Yih Chang
+Erdos number: 2
+PageRank: 0.266992
+
+Author 1554: Shr-Chang Chen
+Erdos number: 2
+PageRank: 0.266992
+
+Author 1555: Yunpeng Wu
+Erdos number: 3
+PageRank: 0.234501
+
+Author 1556: John Hugg
+Erdos number: 2
+PageRank: 0.284857
+
+Author 1557: S. Shehryar Qutub
+Erdos number: 2
+PageRank: 0.355392
+
+Author 1558: Musa R. Unmehopa
+Erdos number: 2
+PageRank: 0.355392
+
+Author 1559: Douglas W. Varney
+Erdos number: 2
+PageRank: 0.355392
+
+Author 1560: Jeffrey Spiess
+Erdos number: 3
+PageRank: 0.230477
+
+Author 1561: Sarbmeet S. Kanwal
+Erdos number: 2
+PageRank: 0.204410
+
+Author 1562: C. C. Salter
+Erdos number: 3
+PageRank: 0.259871
+
+Author 1563: Jochen Darre
+Erdos number: 2
+PageRank: 0.216178
+
+Author 1564: Mei Yang
+Erdos number: 3
+PageRank: 0.352739
+
+Author 1565: Roger Whitney
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1566: Tamsen Whitehead
+Erdos number: 3
+PageRank: 0.291132
+
+Author 1567: Bruce E. Sagan
+Erdos number: 3
+PageRank: 0.291132
+
+Author 1568: Andrius Kulikauskas
+Erdos number: 3
+PageRank: 0.291132
+
+Author 1569: Thorsten Gather
+Erdos number: 3
+PageRank: 0.406766
+
+Author 1570: Xian Zhao
+Erdos number: 3
+PageRank: 0.350524
+
+Author 1571: Fangyu Liu
+Erdos number: 3
+PageRank: 0.288298
+
+Author 1572: James Stanley
+Erdos number: 1
+PageRank: 0.241002
+
+Author 1573: Roger Magoulas
+Erdos number: 2
+PageRank: 0.846622
+
+Author 1574: Tim O'Reilly
+Erdos number: 2
+PageRank: 0.846622
+
+Author 1575: azgar Ulusoy
+Erdos number: 2
+PageRank: 0.341889
+
+Author 1576: Octavian Stanasila
+Erdos number: 3
+PageRank: 0.173328
+
+Author 1577: Chihwan Song
+Erdos number: 2
+PageRank: 0.651804
+
+Author 1578: Qingsong Jin
+Erdos number: 2
+PageRank: 0.448439
+
+Author 1579: Jinsun Uh
+Erdos number: 2
+PageRank: 0.448439
+
+Author 1580: Yoon Kyoo Kang
+Erdos number: 2
+PageRank: 0.323874
+
+Author 1581: Prakash M. Nadkarni
+Erdos number: 3
+PageRank: 0.362294
+
+Author 1582: Nilesh L. Jain
+Erdos number: 3
+PageRank: 0.442403
+
+Author 1583: Diane E. Oliver
+Erdos number: 3
+PageRank: 0.579839
+
+Author 1584: Donald Ellison
+Erdos number: 3
+PageRank: 0.231656
+
+Author 1585: Edward Pattison-Gordon
+Erdos number: 3
+PageRank: 0.406821
+
+Author 1586: Zia Agha
+Erdos number: 3
+PageRank: 0.639799
+
+Author 1587: Lisa Dahm
+Erdos number: 3
+PageRank: 0.639799
+
+Author 1588: Michele E. Day
+Erdos number: 3
+PageRank: 1.097757
+
+Author 1589: Maninder K. Kahlon
+Erdos number: 3
+PageRank: 0.639799
+
+Author 1590: Katherine K. Kim
+Erdos number: 3
+PageRank: 0.671747
+
+Author 1591: Jonathan R. Nebeker
+Erdos number: 3
+PageRank: 0.639799
+
+Author 1592: Asher Garland
+Erdos number: 3
+PageRank: 0.530385
+
+Author 1593: Nathaniel D. Heintzman
+Erdos number: 3
+PageRank: 0.598102
+
+Author 1594: Lixiao Zheng
+Erdos number: 3
+PageRank: 0.184532
+
+Author 1595: Nickolas Kangerlaris
+Erdos number: 3
+PageRank: 0.170131
+
+Author 1596: Stefan Tai
+Erdos number: 2
+PageRank: 0.190912
+
+Author 1597: Rod Coombs
+Erdos number: 2
+PageRank: 0.308364
+
+Author 1598: Malcolm Peltu
+Erdos number: 2
+PageRank: 0.308364
+
+Author 1599: Maxim Orgiyan
+Erdos number: 2
+PageRank: 0.372585
+
+Author 1600: Konstantinos Stathatos
+Erdos number: 2
+PageRank: 0.331355
+
+Author 1601: Lucian Suta
+Erdos number: 2
+PageRank: 0.331355
+
+Author 1602: Dominic Metzger
+Erdos number: 2
+PageRank: 0.834996
+
+Author 1603: Jennifer Golbeck
+Erdos number: 2
+PageRank: 0.806849
+
+Author 1604: Ales Krenek
+Erdos number: 2
+PageRank: 0.806849
+
+Author 1605: Dan Higgins
+Erdos number: 3
+PageRank: 0.340859
+
+Author 1606: Holger Billhardt
+Erdos number: 3
+PageRank: 0.326805
+
+Author 1607: Hannes Jansson
+Erdos number: 3
+PageRank: 0.304156
+
+Author 1608: Charlotte Vilarem
+Erdos number: 2
+PageRank: 0.356301
+
+Author 1609: Sanjiv R. Das
+Erdos number: 2
+PageRank: 0.286162
+
+Author 1610: Naveen Prakash
+Erdos number: 1
+PageRank: 0.568014
+
+Author 1611: Bruce Jackson
+Erdos number: 1
+PageRank: 0.568014
+
+Author 1612: Anurag Kumar Gupta
+Erdos number: 1
+PageRank: 0.568014
+
+Author 1613: Rushan Chen
+Erdos number: 1
+PageRank: 0.568014
+
+Author 1614: Michelle L. Wachs
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1615: Manda Riehl
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1616: Jennifer Wagner
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1617: Yuval Roichman
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1618: Thomas Kirk
+Erdos number: 2
+PageRank: 0.188197
+
+Author 1619: Zia Uddin
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1620: Haobo Ren
+Erdos number: 2
+PageRank: 0.265519
+
+Author 1621: Brian W. Kernighan
+Erdos number: 2
+PageRank: 0.301836
+
+Author 1622: Norman L. Schryer
+Erdos number: 2
+PageRank: 0.301836
+
+Author 1623: Safia Nait Bahloul
+Erdos number: 3
+PageRank: 0.171779
+
+Author 1624: Rebecca Koskela
+Erdos number: 3
+PageRank: 0.225025
+
+Author 1625: Yang-hua Chu
+Erdos number: 3
+PageRank: 0.257889
+
+Author 1626: Daniel J. Rosenkrantz
+Erdos number: 2
+PageRank: 0.384184
+
+Author 1627: Pat Case
+Erdos number: 2
+PageRank: 0.243099
+
+Author 1628: Virginie Sans
+Erdos number: 3
+PageRank: 0.328237
+
+Author 1629: T. Wu
+Erdos number: 3
+PageRank: 0.328237
+
+Author 1630: Martin Benes
+Erdos number: 3
+PageRank: 0.423887
+
+Author 1631: Karl Jansen
+Erdos number: 3
+PageRank: 0.288182
+
+Author 1632: Roger D. Chamberlain
+Erdos number: 3
+PageRank: 0.218614
+
+Author 1633: Rolf Katter
+Erdos number: 3
+PageRank: 0.191455
+
+Author 1634: HyungJun Cho
+Erdos number: 2
+PageRank: 0.412682
+
+Author 1635: Heenam Stanley Kim
+Erdos number: 2
+PageRank: 0.412682
+
+Author 1636: Min-Goo Lee
+Erdos number: 2
+PageRank: 0.412682
+
+Author 1637: Mark Bieda
+Erdos number: 3
+PageRank: 0.185306
+
+Author 1638: Jonathan A. Eisen
+Erdos number: 3
+PageRank: 0.185306
+
+Author 1639: Mark Shimozono
+Erdos number: 3
+PageRank: 0.220566
+
+Author 1640: Mark A. Sheldon
+Erdos number: 3
+PageRank: 0.687804
+
+Author 1641: Brian Boutel
+Erdos number: 3
+PageRank: 0.698061
+
+Author 1642: Joseph H. Fasel
+Erdos number: 3
+PageRank: 0.745770
+
+Author 1643: Maraa M. Guzman
+Erdos number: 3
+PageRank: 0.698061
+
+Author 1644: Thomas Johnsson
+Erdos number: 3
+PageRank: 0.698061
+
+Author 1645: John Peterson
+Erdos number: 3
+PageRank: 0.698061
+
+Author 1646: Lori L. Pollock
+Erdos number: 3
+PageRank: 0.646900
+
+Author 1647: Hyunchoel Jeong
+Erdos number: 2
+PageRank: 0.325157
+
+Author 1648: Hoh Peter In
+Erdos number: 2
+PageRank: 0.325157
+
+Author 1649: Ting-xin Xu
+Erdos number: 3
+PageRank: 0.328665
+
+Author 1650: Li Shuai
+Erdos number: 3
+PageRank: 0.328665
+
+Author 1651: Gautam Das
+Erdos number: 4
+PageRank: 0.169667
+

@@ -1,0 +1,130 @@
+Grafo Cargado en 0.096455s
+Degree for node 100: 42.000000
+Degree for node 200: 41.000000
+Degree for node 300: 129.000000
+Degree for node 400: 50.000000
+Degree for node 500: 33.000000
+Degree for node 600: 9.000000
+Degree for node 700: 6.000000
+Degree for node 800: 11.000000
+Degree for node 900: 27.000000
+Degree for node 1000: 134.000000
+Degree for node 1100: 16.000000
+Degree for node 1200: 13.000000
+Degree for node 1300: 4.000000
+Degree for node 1400: 10.000000
+Degree for node 1500: 4.000000
+Degree for node 1600: 6.000000
+Degree Centrality Algorithm terminado!
+Closeness terminado para el nodo 100
+Resultado-> Closeness = 7130.00
+----------------------------------------
+Closeness terminado para el nodo 200
+Resultado-> Closeness = 6421.00
+----------------------------------------
+Closeness terminado para el nodo 300
+Resultado-> Closeness = 5988.00
+----------------------------------------
+Closeness terminado para el nodo 400
+Resultado-> Closeness = 6750.00
+----------------------------------------
+Closeness terminado para el nodo 500
+Resultado-> Closeness = 6491.00
+----------------------------------------
+Closeness terminado para el nodo 600
+Resultado-> Closeness = 7419.00
+----------------------------------------
+Closeness terminado para el nodo 700
+Resultado-> Closeness = 9233.00
+----------------------------------------
+Closeness terminado para el nodo 800
+Resultado-> Closeness = 8037.00
+----------------------------------------
+Closeness terminado para el nodo 900
+Resultado-> Closeness = 7307.00
+----------------------------------------
+Closeness terminado para el nodo 1000
+Resultado-> Closeness = 7666.00
+----------------------------------------
+Closeness terminado para el nodo 1100
+Resultado-> Closeness = 7436.00
+----------------------------------------
+Closeness terminado para el nodo 1200
+Resultado-> Closeness = 11111.00
+----------------------------------------
+Closeness terminado para el nodo 1300
+Resultado-> Closeness = 10006.00
+----------------------------------------
+Closeness terminado para el nodo 1400
+Resultado-> Closeness = 6547.00
+----------------------------------------
+Closeness terminado para el nodo 1500
+Resultado-> Closeness = 6794.00
+----------------------------------------
+Closeness terminado para el nodo 1600
+Resultado-> Closeness = 6668.00
+----------------------------------------
+Closeness Centrality Algorithm terminado!
+Iteracion: 0
+Source: 1196
+Iteracion: 1
+Source: 1382
+Iteracion: 2
+Source: 573
+Iteracion: 3
+Source: 1469
+Iteracion: 4
+Source: 587
+Iteracion: 5
+Source: 1448
+Iteracion: 6
+Source: 1280
+Iteracion: 7
+Source: 1505
+Iteracion: 8
+Source: 999
+Iteracion: 9
+Source: 259
+Iteracion: 10
+Source: 910
+Iteracion: 11
+Source: 966
+Iteracion: 12
+Source: 886
+Iteracion: 13
+Source: 1539
+Iteracion: 14
+Source: 778
+Iteracion: 15
+Source: 449
+Iteracion: 16
+Source: 135
+Iteracion: 17
+Source: 46
+Iteracion: 18
+Source: 11
+Iteracion: 19
+Source: 1409
+Iteracion: 20
+Source: 644
+Iteracion: 21
+Source: 543
+Iteracion: 22
+Source: 596
+Iteracion: 23
+Source: 437
+Iteracion: 24
+Source: 696
+Iteracion: 25
+Source: 824
+Iteracion: 26
+Source: 1326
+Iteracion: 27
+Source: 1516
+Iteracion: 28
+Source: 1074
+Iteracion: 29
+Source: 1191
+PageRank Centrality Algorithm terminado!
+
+Time taken: 1.49s

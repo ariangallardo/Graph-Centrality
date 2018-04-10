@@ -1,0 +1,522 @@
+Grafo Cargado en 0.130899s
+Degree for node 100: 60.000000
+Degree for node 200: 45.000000
+Degree for node 300: 25.000000
+Degree for node 400: 51.000000
+Degree for node 500: 23.000000
+Degree for node 600: 183.000000
+Degree for node 700: 17.000000
+Degree for node 800: 83.000000
+Degree for node 900: 25.000000
+Degree for node 1000: 120.000000
+Degree for node 1100: 178.000000
+Degree for node 1200: 13.000000
+Degree for node 1300: 8.000000
+Degree for node 1400: 11.000000
+Degree for node 1500: 177.000000
+Degree for node 1600: 32.000000
+Degree for node 1700: 97.000000
+Degree for node 1800: 77.000000
+Degree for node 1900: 16.000000
+Degree for node 2000: 49.000000
+Degree for node 2100: 37.000000
+Degree for node 2200: 154.000000
+Degree for node 2300: 34.000000
+Degree for node 2400: 19.000000
+Degree for node 2500: 77.000000
+Degree for node 2600: 17.000000
+Degree for node 2700: 90.000000
+Degree for node 2800: 62.000000
+Degree for node 2900: 5.000000
+Degree for node 3000: 80.000000
+Degree for node 3100: 19.000000
+Degree for node 3200: 40.000000
+Degree for node 3300: 16.000000
+Degree for node 3400: 18.000000
+Degree for node 3500: 81.000000
+Degree for node 3600: 58.000000
+Degree for node 3700: 9.000000
+Degree for node 3800: 26.000000
+Degree for node 3900: 26.000000
+Degree for node 4000: 11.000000
+Degree for node 4100: 21.000000
+Degree for node 4200: 40.000000
+Degree for node 4300: 27.000000
+Degree for node 4400: 23.000000
+Degree for node 4500: 8.000000
+Degree for node 4600: 45.000000
+Degree for node 4700: 28.000000
+Degree for node 4800: 9.000000
+Degree for node 4900: 72.000000
+Degree for node 5000: 12.000000
+Degree for node 5100: 11.000000
+Degree for node 5200: 25.000000
+Degree for node 5300: 26.000000
+Degree for node 5400: 11.000000
+Degree for node 5500: 43.000000
+Degree for node 5600: 156.000000
+Degree for node 5700: 9.000000
+Degree for node 5800: 33.000000
+Degree for node 5900: 19.000000
+Degree for node 6000: 9.000000
+Degree for node 6100: 51.000000
+Degree for node 6200: 2.000000
+Degree for node 6300: 12.000000
+Degree for node 6400: 1.000000
+Degree for node 6500: 27.000000
+Degree for node 6600: 9.000000
+Degree for node 6700: 3.000000
+Degree for node 6800: 18.000000
+Degree for node 6900: 83.000000
+Degree for node 7000: 11.000000
+Degree for node 7100: 6.000000
+Degree for node 7200: 7.000000
+Degree for node 7300: 8.000000
+Degree for node 7400: 10.000000
+Degree for node 7500: 11.000000
+Degree for node 7600: 11.000000
+Degree for node 7700: 23.000000
+Degree for node 7800: 5.000000
+Degree for node 7900: 450.000000
+Degree for node 8000: 28.000000
+Degree for node 8100: 10.000000
+Degree for node 8200: 5.000000
+Degree for node 8300: 13.000000
+Degree for node 8400: 20.000000
+Degree for node 8500: 5.000000
+Degree for node 8600: 55.000000
+Degree for node 8700: 4.000000
+Degree for node 8800: 13.000000
+Degree for node 8900: 19.000000
+Degree for node 9000: 6.000000
+Degree for node 9100: 5.000000
+Degree for node 9200: 15.000000
+Degree for node 9300: 4.000000
+Degree for node 9400: 10.000000
+Degree for node 9500: 6.000000
+Degree for node 9600: 5.000000
+Degree for node 9700: 4.000000
+Degree for node 9800: 7.000000
+Degree for node 9900: 2.000000
+Degree for node 10000: 2.000000
+Degree for node 10100: 3.000000
+Degree for node 10200: 6.000000
+Degree for node 10300: 9.000000
+Degree for node 10400: 139.000000
+Degree for node 10500: 22.000000
+Degree for node 10600: 1.000000
+Degree for node 10700: 4.000000
+Degree for node 10800: 12.000000
+Degree for node 10900: 6.000000
+Degree for node 11000: 3.000000
+Degree for node 11100: 12.000000
+Degree for node 11200: 3.000000
+Degree for node 11300: 3.000000
+Degree for node 11400: 6.000000
+Degree Centrality Algorithm terminado!
+Closeness terminado para el nodo 100
+Resultado-> Closeness = 44443.00
+----------------------------------------
+Closeness terminado para el nodo 200
+Resultado-> Closeness = 45847.00
+----------------------------------------
+Closeness terminado para el nodo 300
+Resultado-> Closeness = 47509.00
+----------------------------------------
+Closeness terminado para el nodo 400
+Resultado-> Closeness = 54704.00
+----------------------------------------
+Closeness terminado para el nodo 500
+Resultado-> Closeness = 50305.00
+----------------------------------------
+Closeness terminado para el nodo 600
+Resultado-> Closeness = 40195.00
+----------------------------------------
+Closeness terminado para el nodo 700
+Resultado-> Closeness = 46876.00
+----------------------------------------
+Closeness terminado para el nodo 800
+Resultado-> Closeness = 47389.00
+----------------------------------------
+Closeness terminado para el nodo 900
+Resultado-> Closeness = 53818.00
+----------------------------------------
+Closeness terminado para el nodo 1000
+Resultado-> Closeness = 48971.00
+----------------------------------------
+Closeness terminado para el nodo 1100
+Resultado-> Closeness = 58224.00
+----------------------------------------
+Closeness terminado para el nodo 1200
+Resultado-> Closeness = 49202.00
+----------------------------------------
+Closeness terminado para el nodo 1300
+Resultado-> Closeness = 49141.00
+----------------------------------------
+Closeness terminado para el nodo 1400
+Resultado-> Closeness = 52809.00
+----------------------------------------
+Closeness terminado para el nodo 1500
+Resultado-> Closeness = 44690.00
+----------------------------------------
+Closeness terminado para el nodo 1600
+Resultado-> Closeness = 51543.00
+----------------------------------------
+Closeness terminado para el nodo 1700
+Resultado-> Closeness = 47985.00
+----------------------------------------
+Closeness terminado para el nodo 1800
+Resultado-> Closeness = 48868.00
+----------------------------------------
+Closeness terminado para el nodo 1900
+Resultado-> Closeness = 66810.00
+----------------------------------------
+Closeness terminado para el nodo 2000
+Resultado-> Closeness = 46511.00
+----------------------------------------
+Closeness terminado para el nodo 2100
+Resultado-> Closeness = 44742.00
+----------------------------------------
+Closeness terminado para el nodo 2200
+Resultado-> Closeness = 50163.00
+----------------------------------------
+Closeness terminado para el nodo 2300
+Resultado-> Closeness = 43905.00
+----------------------------------------
+Closeness terminado para el nodo 2400
+Resultado-> Closeness = 47401.00
+----------------------------------------
+Closeness terminado para el nodo 2500
+Resultado-> Closeness = 77291.00
+----------------------------------------
+Closeness terminado para el nodo 2600
+Resultado-> Closeness = 48186.00
+----------------------------------------
+Closeness terminado para el nodo 2700
+Resultado-> Closeness = 46210.00
+----------------------------------------
+Closeness terminado para el nodo 2800
+Resultado-> Closeness = 41846.00
+----------------------------------------
+Closeness terminado para el nodo 2900
+Resultado-> Closeness = 49000.00
+----------------------------------------
+Closeness terminado para el nodo 3000
+Resultado-> Closeness = 49849.00
+----------------------------------------
+Closeness terminado para el nodo 3100
+Resultado-> Closeness = 49437.00
+----------------------------------------
+Closeness terminado para el nodo 3200
+Resultado-> Closeness = 51788.00
+----------------------------------------
+Closeness terminado para el nodo 3300
+Resultado-> Closeness = 48702.00
+----------------------------------------
+Closeness terminado para el nodo 3400
+Resultado-> Closeness = 52379.00
+----------------------------------------
+Closeness terminado para el nodo 3500
+Resultado-> Closeness = 48038.00
+----------------------------------------
+Closeness terminado para el nodo 3600
+Resultado-> Closeness = 55639.00
+----------------------------------------
+Closeness terminado para el nodo 3700
+Resultado-> Closeness = 75066.00
+----------------------------------------
+Closeness terminado para el nodo 3800
+Resultado-> Closeness = 53494.00
+----------------------------------------
+Closeness terminado para el nodo 3900
+Resultado-> Closeness = 49013.00
+----------------------------------------
+Closeness terminado para el nodo 4000
+Resultado-> Closeness = 49343.00
+----------------------------------------
+Closeness terminado para el nodo 4100
+Resultado-> Closeness = 65918.00
+----------------------------------------
+Closeness terminado para el nodo 4200
+Resultado-> Closeness = 45994.00
+----------------------------------------
+Closeness terminado para el nodo 4300
+Resultado-> Closeness = 49468.00
+----------------------------------------
+Closeness terminado para el nodo 4400
+Resultado-> Closeness = 51449.00
+----------------------------------------
+Closeness terminado para el nodo 4500
+Resultado-> Closeness = 70660.00
+----------------------------------------
+Closeness terminado para el nodo 4600
+Resultado-> Closeness = 46511.00
+----------------------------------------
+Closeness terminado para el nodo 4700
+Resultado-> Closeness = 51574.00
+----------------------------------------
+Closeness terminado para el nodo 4800
+Resultado-> Closeness = 47286.00
+----------------------------------------
+Closeness terminado para el nodo 4900
+Resultado-> Closeness = 47305.00
+----------------------------------------
+Closeness terminado para el nodo 5000
+Resultado-> Closeness = 54044.00
+----------------------------------------
+Closeness terminado para el nodo 5100
+Resultado-> Closeness = 55163.00
+----------------------------------------
+Closeness terminado para el nodo 5200
+Resultado-> Closeness = 54233.00
+----------------------------------------
+Closeness terminado para el nodo 5300
+Resultado-> Closeness = 46599.00
+----------------------------------------
+Closeness terminado para el nodo 5400
+Resultado-> Closeness = 62499.00
+----------------------------------------
+Closeness terminado para el nodo 5500
+Resultado-> Closeness = 54739.00
+----------------------------------------
+Closeness terminado para el nodo 5600
+Resultado-> Closeness = 48883.00
+----------------------------------------
+Closeness terminado para el nodo 5700
+Resultado-> Closeness = 46706.00
+----------------------------------------
+Closeness terminado para el nodo 5800
+Resultado-> Closeness = 45951.00
+----------------------------------------
+Closeness terminado para el nodo 5900
+Resultado-> Closeness = 46269.00
+----------------------------------------
+Closeness terminado para el nodo 6000
+Resultado-> Closeness = 45605.00
+----------------------------------------
+Closeness terminado para el nodo 6100
+Resultado-> Closeness = 47232.00
+----------------------------------------
+Closeness terminado para el nodo 6200
+Resultado-> Closeness = 59633.00
+----------------------------------------
+Closeness terminado para el nodo 6300
+Resultado-> Closeness = 65992.00
+----------------------------------------
+Closeness terminado para el nodo 6400
+Resultado-> Closeness = 50168.00
+----------------------------------------
+Closeness terminado para el nodo 6500
+Resultado-> Closeness = 50224.00
+----------------------------------------
+Closeness terminado para el nodo 6600
+Resultado-> Closeness = 49446.00
+----------------------------------------
+Closeness terminado para el nodo 6700
+Resultado-> Closeness = 55310.00
+----------------------------------------
+Closeness terminado para el nodo 6800
+Resultado-> Closeness = 46682.00
+----------------------------------------
+Closeness terminado para el nodo 6900
+Resultado-> Closeness = 51803.00
+----------------------------------------
+Closeness terminado para el nodo 7000
+Resultado-> Closeness = 50130.00
+----------------------------------------
+Closeness terminado para el nodo 7100
+Resultado-> Closeness = 53128.00
+----------------------------------------
+Closeness terminado para el nodo 7200
+Resultado-> Closeness = 55983.00
+----------------------------------------
+Closeness terminado para el nodo 7300
+Resultado-> Closeness = 49411.00
+----------------------------------------
+Closeness terminado para el nodo 7400
+Resultado-> Closeness = 67936.00
+----------------------------------------
+Closeness terminado para el nodo 7500
+Resultado-> Closeness = 51630.00
+----------------------------------------
+Closeness terminado para el nodo 7600
+Resultado-> Closeness = 55307.00
+----------------------------------------
+Closeness terminado para el nodo 7700
+Resultado-> Closeness = 48672.00
+----------------------------------------
+Closeness terminado para el nodo 7800
+Resultado-> Closeness = 49663.00
+----------------------------------------
+Closeness terminado para el nodo 7900
+Resultado-> Closeness = 48745.00
+----------------------------------------
+Closeness terminado para el nodo 8000
+Resultado-> Closeness = 64749.00
+----------------------------------------
+Closeness terminado para el nodo 8100
+Resultado-> Closeness = 53833.00
+----------------------------------------
+Closeness terminado para el nodo 8200
+Resultado-> Closeness = 51698.00
+----------------------------------------
+Closeness terminado para el nodo 8300
+Resultado-> Closeness = 80747.00
+----------------------------------------
+Closeness terminado para el nodo 8400
+Resultado-> Closeness = 59100.00
+----------------------------------------
+Closeness terminado para el nodo 8500
+Resultado-> Closeness = 56017.00
+----------------------------------------
+Closeness terminado para el nodo 8600
+Resultado-> Closeness = 47417.00
+----------------------------------------
+Closeness terminado para el nodo 8700
+Resultado-> Closeness = 49354.00
+----------------------------------------
+Closeness terminado para el nodo 8800
+Resultado-> Closeness = 53897.00
+----------------------------------------
+Closeness terminado para el nodo 8900
+Resultado-> Closeness = 57261.00
+----------------------------------------
+Closeness terminado para el nodo 9000
+Resultado-> Closeness = 65534.00
+----------------------------------------
+Closeness terminado para el nodo 9100
+Resultado-> Closeness = 50828.00
+----------------------------------------
+Closeness terminado para el nodo 9200
+Resultado-> Closeness = 49217.00
+----------------------------------------
+Closeness terminado para el nodo 9300
+Resultado-> Closeness = 50972.00
+----------------------------------------
+Closeness terminado para el nodo 9400
+Resultado-> Closeness = 52047.00
+----------------------------------------
+Closeness terminado para el nodo 9500
+Resultado-> Closeness = 53948.00
+----------------------------------------
+Closeness terminado para el nodo 9600
+Resultado-> Closeness = 54163.00
+----------------------------------------
+Closeness terminado para el nodo 9700
+Resultado-> Closeness = 49886.00
+----------------------------------------
+Closeness terminado para el nodo 9800
+Resultado-> Closeness = 51736.00
+----------------------------------------
+Closeness terminado para el nodo 9900
+Resultado-> Closeness = 58382.00
+----------------------------------------
+Closeness terminado para el nodo 10000
+Resultado-> Closeness = 68318.00
+----------------------------------------
+Closeness terminado para el nodo 10100
+Resultado-> Closeness = 53798.00
+----------------------------------------
+Closeness terminado para el nodo 10200
+Resultado-> Closeness = 58597.00
+----------------------------------------
+Closeness terminado para el nodo 10300
+Resultado-> Closeness = 55527.00
+----------------------------------------
+Closeness terminado para el nodo 10400
+Resultado-> Closeness = 59345.00
+----------------------------------------
+Closeness terminado para el nodo 10500
+Resultado-> Closeness = 56438.00
+----------------------------------------
+Closeness terminado para el nodo 10600
+Resultado-> Closeness = 52148.00
+----------------------------------------
+Closeness terminado para el nodo 10700
+Resultado-> Closeness = 51704.00
+----------------------------------------
+Closeness terminado para el nodo 10800
+Resultado-> Closeness = 54649.00
+----------------------------------------
+Closeness terminado para el nodo 10900
+Resultado-> Closeness = 46877.00
+----------------------------------------
+Closeness terminado para el nodo 11000
+Resultado-> Closeness = 74877.00
+----------------------------------------
+Closeness terminado para el nodo 11100
+Resultado-> Closeness = 48810.00
+----------------------------------------
+Closeness terminado para el nodo 11200
+Resultado-> Closeness = 50237.00
+----------------------------------------
+Closeness terminado para el nodo 11300
+Resultado-> Closeness = 52300.00
+----------------------------------------
+Closeness terminado para el nodo 11400
+Resultado-> Closeness = 51073.00
+----------------------------------------
+Closeness Centrality Algorithm terminado!
+Iteracion: 0
+Source: 8981
+Iteracion: 1
+Source: 1761
+Iteracion: 2
+Source: 3190
+Iteracion: 3
+Source: 198
+Iteracion: 4
+Source: 5148
+Iteracion: 5
+Source: 2657
+Iteracion: 6
+Source: 10127
+Iteracion: 7
+Source: 6681
+Iteracion: 8
+Source: 1251
+Iteracion: 9
+Source: 4683
+Iteracion: 10
+Source: 8722
+Iteracion: 11
+Source: 732
+Iteracion: 12
+Source: 10052
+Iteracion: 13
+Source: 24
+Iteracion: 14
+Source: 3887
+Iteracion: 15
+Source: 5792
+Iteracion: 16
+Source: 129
+Iteracion: 17
+Source: 4220
+Iteracion: 18
+Source: 10500
+Iteracion: 19
+Source: 7948
+Iteracion: 20
+Source: 5808
+Iteracion: 21
+Source: 7403
+Iteracion: 22
+Source: 11005
+Iteracion: 23
+Source: 11014
+Iteracion: 24
+Source: 6120
+Iteracion: 25
+Source: 2739
+Iteracion: 26
+Source: 662
+Iteracion: 27
+Source: 1587
+Iteracion: 28
+Source: 7094
+Iteracion: 29
+Source: 895
+PageRank Centrality Algorithm terminado!
+
+Time taken: 90.36s
